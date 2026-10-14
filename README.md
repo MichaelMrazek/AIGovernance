@@ -26,7 +26,7 @@ node --check app.js
 3. Open **Actions → Collect and publish daily briefing → Run workflow**. The first successful run collects news and publishes the website. GitHub will show the public website address in **Settings → Pages**.
 4. The workflow runs daily at 12:17 UTC (7:17 a.m. Central daylight time / 6:17 a.m. Central standard time). GitHub may delay scheduled runs. Schedules require the workflow on the default branch; inactive public repositories may have scheduled workflows disabled after 60 days.
 
-The cloud environment does not itself provide permanent hosting or a daily scheduler. GitHub Pages and GitHub Actions provide those once enabled. This repository has not yet been pushed or published by the setup task.
+The cloud environment does not itself provide permanent hosting or a daily scheduler. GitHub Pages and GitHub Actions provide those once enabled. The website files have been pushed to `main`. GitHub Pages must be enabled in repository settings before publication can succeed.
 
 ## How collection works
 
