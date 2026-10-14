@@ -1,0 +1,241 @@
+{
+  "updatedAt": "2026-10-14T19:34:52.357587+00:00",
+  "demo": false,
+  "articles": [
+    {
+      "id": "5ed11ae57d74ca06",
+      "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE1IbGpvU1dxQWk5dzNSRVBfckN6djhPR0lXQ3BhSml1cWRaNV9LVTgtZko4cWtjZk9NX3lhNG1ibnNNY0lqNmtvVFRrTHhRVUF6VmpwVmN6UVZmX1dYS2JNYUR2U3EyR0VYYjVpUENBeFRlM3dRVG5jN050UzdheXZqM3l0UkYxUlNCWi1XZjljc0JCbDhsZ0wwd1o2b0V4Q0xOVVZ3?oc=5",
+      "source": "STAT",
+      "publishedAt": "2026-10-14T08:36:35+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from STAT on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "96999caac3c3f134",
+      "title": "News 12 Investigates: AI’s promise in healthcare raises questions about patient privacy",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDlOaU1mTk1FcFJ1QzM4ZURuZHBWbm1uaXBheGVwVlBFSzdNaUp1WDYzT1Y1VkJ3TmJPMEJHN2w1QUxGcndLZi0yWnhXZ0VmdldSR2U2azhxQWZfMVB2a2VBSHpZbHRXcGI2Ukdzd2MyS3plUWNkTEVWbEtyUGJsRzNNakItMXhFd09obXRMN01Qckx1d2FVSGhhZHI5NW9CdWkxMGRZMDd5OWVWR0trLVJtZGwzM2I2NnZvRWU0VmJuSU9FZEdVZ0Mzdw?oc=5",
+      "source": "WCTI",
+      "publishedAt": "2026-10-13T23:12:44+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from WCTI on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "4c62f3c157fa5c3a",
+      "title": "California Bans AI From Making Medical Decisions on Its Own",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdTBsVXV4MUJHZkZReFpJUnlPdzZtLWEtUnRVTllRMzVYaG80ajBNQmR3WlFVaXhaOEUtWEpHbHkxWTZvVDlfb0ZxZEZMQWV1RXBoa1ZoUnkxX3JuR1dLNjFObkNXTmhaNWhqcVZtR0F2X1FEZk90MFRfNGEzS05PQUFvV0JZZG91eUM5RGRWenF5THkxSDdrUWx1aG56TEtBLVRidzhxZWdNT0lnR2c?oc=5",
+      "source": "Governing",
+      "publishedAt": "2026-10-13T20:11:43+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Governing on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "bbe52940888e0215",
+      "title": "How AI is raising healthcare cybersecurity risks – and how to fight back",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWpsZEE5TGNLZVVqcUhWMS1yb2ZjNWxjVWNkV09yb2RBak42UmtLTThNZEZnN0EwelgtdDlvR2U1YTNJOGFtUDMtMzBBUmdxU1ZSSkZNMi10OUNyTVRSdTI5akp2XzhQV09PWHNmTENaamc5bEhGNXBpa1RVeEQ4OVFET0JGZW8xZkp1d256MEpTNXIyRHg3dlI0TjRsRjVxUTRXMw?oc=5",
+      "source": "Healthcare IT News",
+      "publishedAt": "2026-10-09T16:39:44+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Healthcare IT News on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "3b2ccaf17c855adf",
+      "title": "AI, tech leaders are lobbying Trump health officials in a government-run chat room",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpM0xvN2FtdXdERExEVlBZYUtLYk9aTHFkRmNETnF4ZG9BYjhtQ19Fd29DRTVFYzZpd3FhcVZndWdiZ2ZNNVdzVmNwcDZEZk16MWVOdkpiY3pGZ3M4ZzlBVlhSZ0MtMThEc1VNTXB4ekVEVjhhajlpd0dPOVNGb2s?oc=5",
+      "source": "CBS News",
+      "publishedAt": "2026-10-09T09:00:11+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from CBS News on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "17b1fe61831d609d",
+      "title": "BIDMC Researchers Conduct First Real-World Study of Safety and Quality of Patient-Facing AI in Primary Care | Newswise",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOWk3Q0tzeVdIS0xmUlp1Q3lyZmJaRkQzdnc4NkozQ0lVcnl3WXo4TUR6NUxHLV91aWQ3dW1fTHQ4OXlTQXhhckk1SHUwQ3dHM3F5YkNHdHFudTNySnVoVnlZQWNsZ2JqX0FNXzU0cTZfZEt0MURDc3BnandxdEZEb21MR0RCV3NoV1ZZVV9XMXl6V0FkWmJkUkhoamhSblFnRzV4VjZHaU00NE0yRjBEc1N3MXVYd2dQeEhBcDQ2Rk8wMzVzVGt4TlhlbVpMSFZXM0szZENEZlLSAdgBQVVfeXFMTjlpN0NLc3lXSEtMZlJadUN5cmZiWkZEM3Z3ODZKM0NJVXJ5d1l6OE1EejVMRy1fdWlkN3VtX0x0ODl5U0F4YXJJNUh1MEN3RzNxeWJDR3RxbnUzckp1aFZ5WUFjbGdial9BTV81NHE2X2RLdDFEQ3NwZ2p3cXRGRG9tTEdEQldzaFdWWVVfVzF5eldBZFpiZFJIaGpoUm5RZ0c1eFY2R2lNNDRNMkYwRHNTdzF1WHdnUHhIQXA0NkZPMDM1c1RreE5YZW1aTEhWVzNLM2RDRGZS?oc=5",
+      "source": "Newswise",
+      "publishedAt": "2026-10-09T00:10:00+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Newswise on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "811f4a15060a678b",
+      "title": "Towards the responsible use of artificial intelligence in the health network",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW9BVXNpYk8zTnYtZlNJOU03bnN4ZkhkWkJNRGh6aXlpM2ZwbVBWekM4blhGaHhrSWNlTWwxVVozNjljUUFIQjd3c0d3bGhSQjZEZ2trakVua21NQ2VCaE42SmFrckZlaTNVa3FTOFEtT1hyTElXYTc3OU8tdlF5M0tPZXBkNlU4Q0lYWHQxRURqVDF4am5EVnduMTlWendGMURNaDlNX1NTUTcxTjdDTVo2WW5uR3l5Z3FfcA?oc=5",
+      "source": "FIQ",
+      "publishedAt": "2026-10-01T19:55:34+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from FIQ on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "724e495a14862258",
+      "title": "Reframing epidemic early warning: toward AI-native decision intelligence for public health governance",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMZi1ERzh6X1ljSlBUSVd4Y0FhM0pVZG5LNVRheEowMEJZeTUwd0VBcm9ONUs3TlBwQW5iVjc3RUdvZlFRalRMQXJHeFZjajAwMXVOTktrTElPcGNwUWxn?oc=5",
+      "source": "Nature",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Nature on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "8ab0d20a6e0d4d4d",
+      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzl5OHVlczdydGxrX1FIUzZ0ZENaQjFYcEdjZGc1NE9wR201RkJLRDRscV8zNHN6WkEzTG5YYmhkc05qb2RwNXlRNmpzLWxBbmxkS3lUYlZmYVVDODJDSVdFOTl0Q3RwRGxXZjc1NEZCRDhVcnA5RXBaOV8yMm96QnZyZzRWT0twWGxvWkJpMU9fTmFfRnlkWGJB?oc=5",
+      "source": "Healthcare IT News",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Healthcare IT News on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "a3c0130b75e6a316",
+      "title": "Data privacy concerns could hold patients back from using AI",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1lKbFR3eDYwNGN0SkktZDVoTXQ3TDhBVzQtN0tmT3g2eFZZT3Zsa0F1c1QtbXcxU3N2NmpjTVEwYWgxMjdUbWlrVGpacUNDVTk5WnRVU0F1UzFVSXFxNFVRNnZoSFV5UWNxNGdONlYweXJXaDVpdHI5YkVsMlloYzdIZE4zcjVMVVNxRnJ2bURnckNfd0ZzOXNscERjaFZweWY5cVhXQQ?oc=5",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Healthcare Dive on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "ca40200f0d67cdac",
+      "title": "PA Lawmakers Vote To Regulate AI Use In Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkptWTJOZjdQU0FZLVFUZGhCdTdQa2daNmR1VktzWi10NGpLd0JyTGR4WUdpb1pCcXp5ZFdHV1duZlNEbmJSaU5qeHhjNkRuY1J3MnZXSzAzdmVqSTh5V0xqX3hnSll4X1VmdDZBQXh5U3RrbE9kV2FXRGUyVVZjNzlQYXJpYVB2WmF3OGVTaw?oc=5",
+      "source": "Patch",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Patch on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "f111aa8a2a85fe0a",
+      "title": "New AI research strengthens privacy protection in healthcare",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWFDaHFWcmJwMndxc0JrSHhpaWVCdnVaXzVVY2lYN3lNU05DbW5zZHY1MDVhdi1uVzUtU2E3RWFOT1V6UVBvWXNMS21VcGdlXzNaRkFqakRzTS1IU2Y0cDN5YUFycnZxY2xHQWZBakxYcGFfakFZdWxMTnYzZUppT0QtRHBpTzFiNmhPeDNMRjFBT1dlR0EyY0pLbXBSUQ?oc=5",
+      "source": "Umeå universitet",
+      "publishedAt": "2026-09-30T09:44:40+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Umeå universitet on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "69afdbcf018350f3",
+      "title": "FDA-style AI regulation would cause the US to lose the tech race to China: Former White House AI czar",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uOTNaUTBnWHgxbThGdUxVd0ZyMWdsUFFXekd4X1Q5S05kdXJjTnNNaTJyalk1S1Y3T2RabjFXdG5rVHVib3dvQjY3VGUwbHBTMTZHeWJzVHNRNzQ?oc=5",
+      "source": "Fox Business",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Fox Business on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "1effa8460a7d995a",
+      "title": "Transforming Healthcare AI with Secure, Privacy-Preserving Collaborative Learning",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdEhOWGxNZFAzcGJVdDZnWlV0dEV6VEtCLUltcThLSl9uMW13QTRwalR0NlFuMFBEd0trMzR6aG9wNnlUd08zdWRWTWVqdkdCbFF6Q3IzcjNfbWRKT1RyeGdfeGJmUTlPdnZrZy02dnBvR0pfNUFSczB4clJHZXdaa0NTdUY0RF96T1hnRmdMYlhqWnlVQWRIVEQ3SjQtOXdwcmpfbTZYWUhYQ3hC0gGyAUFVX3lxTE16aVVQWTNOWXQ2MW1YWDQzMzNxbTE4U2lBOHF2TG8yNlJ1WFRGWVNKR1lBYXF1MGJCT1V4TkNibVFTVXJjR2ctZzNIMUQ2RGpVWUlGeDNwT2V3eXpKM3RFODNvWEF0aExQU1JIOUl3Z1A2QmhKdVhobUpvZktUTlFKWlI2M2x0bmlwOU9KbHJodUFJMkFWTDBHNlo1ckFqMXg1ZW1HbHM4T0x1RHVSSUhqWWc?oc=5",
+      "source": "US Times Now",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from US Times Now on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "c77d9ba9ddae16bc",
+      "title": "Artificial intelligence in healthcare: contracts set the first guidelines",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzZvUzZ4dC1qem1pVHFjQ19iOGF2c09rRTVja05pY3ZNN3g3WUFTcWRrVWx1Y3VVak95OVIzQXctYXdVU01XVUpRQzBKVnJOUmc5YnJpZnFzRU1jcGhXTTBXdEU5UmpKYzdZS2RFdGN1c3FiUi1WQ3VsOXA5cHNUMmhLQnZPNmtzYWl1V3ZQakZOT0JHa0pyVVZQQUdOTDBTdGxPZDlNaDhfMGtJbldjb1BIVTNKZHdINXc?oc=5",
+      "source": "Il Sole 24 ORE",
+      "publishedAt": "2026-09-24T07:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Il Sole 24 ORE on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "6a74f1958f264acd",
+      "title": "New WHO report calls for stronger ethics oversight of AI-related health research",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWI0RE16NFp2cWNtSlloNzctM2ZXa0kyemh0NURIWUVaQVZHNlhld25kTEUwZkcyallVUHRoZUNfaXoyOHkwenRteEI2RzFKNUo1b0l0UTgtSHhMdjg5eUN2NnZLS05xU1VXSGQ2QklxQzFkQjhwNWVnRHZsVU9XZUdXOTlqbzI0YzFOeEw4UnZ2WGVvQi1HTVBoaU04bTNEME5RaVdvMHVFeElmNFVLN3NQcENOeFZTdjVRcGZB?oc=5",
+      "source": "World Health Organization (WHO)",
+      "publishedAt": "2026-09-21T07:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from World Health Organization (WHO) on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "dd971a0eb6a69840",
+      "title": "Khanna calls for a government agency to oversee AI ‘like the FDA’",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWZsNllqTk5CQWJ3V2VRRmJtREIwYmZuQ3lsOUo3ZDV5UTJGeEJEeTVsNk8yMURsZXFuRmlFTE1nSVlGUmxNdmR0Uzk4STFaSGRpZ2xNaTNFZ2Zrd1J0czZPWWFYOXl6dkhaWG9wTHVXZ1dmZnhfWi1BUzZQWWN3eUpvN0FHOU1uOUFF0gGQAUFVX3lxTE9wRkstSzBqTWJPUHRVcV9ZUFVQNzNTUDBqa19KTG1jZDVkSG1nNWZ5T3dNQzVTWmt4RGJKNHNFeEFLR01jRUZVZmFBTE1aNWhVcHdxd2J6R1FWazNvZUNld1U5WXpSdW13Q0VFQTNpbkpkRldacjN3T1UwU3lJYlNPQmRDWXlBR294d3d1X29BbQ?oc=5",
+      "source": "The Hill",
+      "publishedAt": "2026-09-20T07:00:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from The Hill on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "38c2288aee0e576d",
+      "title": "Health experts urge safer, more responsible use of AI in healthcare",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2Z3azdva2lZTWwwTDVpTk5yeDZKb0RPNFRjM2plMmxEdXdYYlRHQ0stQmN2c1JqRFpGaXdVMEtlN0tacFg0NUsxalBxTWoxVFhzdTBWbkk0MnBuWldYUVhNN3o3T0c2eWloZjVnRnM1STNNc2d6cm1lVTYyOHA5cWd6VmpMYXlaT0JVTV9ZT0QwRXZ0OWlJ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "publishedAt": "2026-09-20T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from The Guardian Nigeria News on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "38b447841e0823b8",
+      "title": "AI Use Policy Template for Health Departments and Companion Guide",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUnRDT0VuejZqSVB6R0RYNl9oMUtnakw3a1FpNmJLSXI0cEhoRzgxaE1iNlRkZ2FTR1VlSU9maVBXWm0tY0NYOFVHbmdEdThVcVZnOFE5Y1hmeXZ6RUhvbWhYTVBCYjE5SE5ZMVFHQWlkdE5rb1RVVElJcEtfUjdDZFE5NW8ydEZxM0J0cTNjeHVfZWhKZnZXQlFjbw?oc=5",
+      "source": "Kansas Health Institute",
+      "publishedAt": "2026-09-18T07:00:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Kansas Health Institute on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "0fedf995df763dde",
+      "title": "FDA Publishes Discussion Paper on Regulating Generative AI-Enabled Med Devices",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2xkN3ZFeXN3QzJIRTJwcnZuRENaSldIYTJyYWw2SmJkcEswb2dWZ1FjeEl6RGJxcl8xQXhMT0pqaEN0MVpQOUlNbi1GUmtiN1lSRnN3RU5fMXVLb3FIb1lUd0ZpMUhIMzBOVUItY0kyYkxYQWFucWp0c2JDMTgxcnFsOHNvTG5YemlNeDBLb3RUUG9WTTZfbThzVzhJek96Uy1pOVFBSFY0WGPSAbMBQVVfeXFMTVdwcUdiaUI1RFVzSEVyWE45azBqVERLcHZhaGJzZjQ2OU9MNXVkMzJqWEFJSUo5cG5hUVN2bmVESm5yNi0wbVVyeGxMUUV1Vm9IUDVKZDk4WGhTX2FVNEFjQlZsS1lfQUlkX3oyeXhzZ09TMC1qeEZGLS00RkRidV9ZT1pQbGpXaW5pNXE3bEpQRl9XU1pkV0J0bF83VDZQYXRELWZNSU5TWXgzVndwTFZKZGc?oc=5",
+      "source": "In Compliance Magazine",
+      "publishedAt": "2026-09-17T07:00:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from In Compliance Magazine on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "009af830f31d7eeb",
+      "title": "Decades of male-focused medical research could bias healthcare AI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVpRWHVYQ05GeDZCMWl0ZE9HQnNQY3k3eFpDS2NzN0lvOXB5bWRaTmFGMmktUGUteGpmM24zODV5RERkQ05RSU1YNVJucjlONHM5U2pmVkN3SGNTcVdkbUFDdDc5WllmLW1GM3dEUC1fRGd1UDR1UG5rWDVCSk04cFZBcUFBZTNteHQ2TzFIVHhhZ1NBcmxCNHFScjBXOEhFX3c?oc=5",
+      "source": "The Conversation",
+      "publishedAt": "2026-09-17T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from The Conversation on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "f9f6c159e3cb593a",
+      "title": "FDA, Sanofi, Gilead Weigh AI Readiness and Validation Risk at PDA/FDA Conference",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHcweUZpbTFYMXBYTGV5U0kwbWFSTkFaVE56NTAxOHgzVG5fMFFSN0ZNbjdDeTdGbGxvaTVRWmxZdXIydkVrcmYxaUY1MnRINzMwVm9lTUdWLVhLUTFMYjZ3UmlrcDNBTEh4cU5LSFJRZkkxSXpEUUhqeXVUS0JKaEhLSUU4R2p6WVdDa1JqVHJrU2pCUzN6QUNSeUhhaGxxZHl2dWpyQmlOaWhV?oc=5",
+      "source": "BioPharm International",
+      "publishedAt": "2026-09-16T23:51:01+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from BioPharm International on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "8faa5a2b7fffc4dd",
+      "title": "NIH Vax Harms Study; Dems Seek CDC Measles Briefing; HHS Pushes AI Despite Risks",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SN0s3VzZEUl8xN3hTd2pLd3UwZE5VZFExVllQNDEwbUdZTmx6QVB5T3d2Rk03ZDAteTNFelVXMTNXVkt2Q1VsLXlPMG5hNE9pd0ZkTFBEd3pUNUFIR0V4RnVoNHV0RVlzTDJwUFF3bFZQVXhWRjVpTA?oc=5",
+      "source": "MedPage Today",
+      "publishedAt": "2026-09-16T07:00:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from MedPage Today on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "b11c12550956b51e",
+      "title": "Global equity funds bet on healthcare as ‘AI short in disguise’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQci1FcnQwd19NZGZsX3pUNmk4WHo3VEFtQ25jRE1McXdpRG9CZ1pwT045cWNhbEtWM0Q0YWVOODZRd1ZDdEdtRm8wTHMtRHRpcWJ2aWNjYlhOME43MjhINDRfdzFyemdkUUpvYVlfZEdoeG1OaE1tMmhsMWx6OWhSb3lBTlJGMTlMc0ZVTGJRc2ZxQWx3Y3EzOF9idEMwdXF3aGRz?oc=5",
+      "source": "Investment Week",
+      "publishedAt": "2026-09-16T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Investment Week on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "ebc2352badf490c9",
+      "title": "Shadow AI in Healthcare: Risks, Possibilities, and a Path Forward",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PS2pSVlQzM29JUFJGaEFBVV80RmNHSThLNURib0p2QXV0YzNDUVl1aHEwcnRlZWs4WTMtbnR1Slg3cWhQYUFQV3lzblRCUjhLTUJqeFI1NGQ2S2Y0Y1R4RHZOakhvbTdoTVRSRFg2NldXMmxDUXRzejQycGs?oc=5",
+      "source": "JD Supra",
+      "publishedAt": "2026-09-15T07:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from JD Supra on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "2123c7db35795377",
+      "title": "China Sets World’s First AI Brain-Data Standard; FDA Has No Equivalent",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG1JV29neTRCYlNLNkpkOFNhdGVkRXV3emJPdUlzWmRkM2tFTW1nSGpMa0N0aUlXcVgtcHpERW5wNlNuVlRlTWpkQzlvYkVFUmlKcGZiX3Y0SGJ4UWN2WkU5dFp0NUxVbFJyYUUzd2o0R1dFMktRU05aeDdrY1k0cmg2dU9kYXl6Sk0xVlJWSF9FdDBmVy0xQ1V4cW9ER0xSbU5IZWVBcENnQk1COFpNdXg5Z3pwbGxMR1hEZ0NFWlo?oc=5",
+      "source": "Tech Times",
+      "publishedAt": "2026-09-15T07:00:00+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Tech Times on safety & standards in health AI. Follow the source link for the full story and context."
+    }
+  ],
+  "warning": null
+}

@@ -1,0 +1,61 @@
+name: Collect and publish daily briefing
+on:
+  schedule:
+    - cron: '17 12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      # Reuse the most recent briefing if a source is temporarily unavailable.
+      - uses: actions/cache/restore@v4
+        with:
+          path: data/articles.json
+          key: briefing-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: briefing-
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run collector tests
+        run: python -m unittest discover -s tests -v
+      - name: Collect news
+        id: collect
+        continue-on-error: true
+        run: python scripts/collect_news.py
+      - name: Require collected reporting before publishing
+        run: |
+          python - <<'PY'
+          import json
+          data = json.load(open('data/articles.json'))
+          assert not data.get('demo') and data.get('articles'), 'No live briefing is available; publication stopped.'
+          PY
+      - uses: actions/cache/save@v4
+        if: steps.collect.outcome == 'success'
+        with:
+          path: data/articles.json
+          key: briefing-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Prepare website files
+        run: |
+          mkdir -p _site/data
+          cp index.html styles.css app.js _site/
+          cp data/articles.json _site/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
