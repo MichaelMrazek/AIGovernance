@@ -15,9 +15,10 @@ The repository includes a successfully collected briefing. Run `python3 scripts/
 ## Checks
 
 ```sh
-python3 -m unittest discover -s tests -v
-node --check app.js
+scripts/check.sh
 ```
+
+This runs the unit tests and a JavaScript syntax check. GitHub Actions runs it on every push and pull request (**Actions → Tests**). In Claude Code sessions, a Stop hook in `.claude/settings.json` runs it whenever Claude finishes a turn and sends any failure back to Claude to fix.
 
 ## Put the site online (beginner steps)
 
