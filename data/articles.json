@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-22T17:14:04.222872+00:00",
+  "updatedAt": "2026-10-23T17:12:09.175967+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "57448557fa0c9982",
+      "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjZUVzh1YmRKWVJhTWRNUk5mOVZzOUxEVHIyRzY1MmgzV0pWWHk4dXFWdnVoTVh4RjJvSnQwYXV0U1ZISjhEdlNKR2IyRm01clAzS3hGUUJOOW5CcU9RUFVhNmdtU3pINzBZZm5FRkk5c2stQnVhV3Bya083S1EwZUpfdFh5aEV6QmhPS3VYTGRibmRudUR3TU1NYkVtWjNDT3NTT0RpcldUMGN1OW1jcnRqVE1GX01xbEM0?oc=5",
+      "source": "Radiology Business",
+      "publishedAt": "2026-10-23T09:43:18+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Radiology Business on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "b32adf36bbdceb0b",
+      "title": "Pharmacist Roles, Risks in Guiding AI-Enabled Medical Device Use",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVplTnIwN21XcVg1N1E3WFRlaGNrR1lvU0c3X3drQkxhMlVWRF9yOE5QTGN0UGw4em4xUFljOEdobGIxVGxNSXRuMGZxeDJTTnlNdmE3b3FqY1F6Z290M1ZMdTdIMzhFOEE5MG52TE5FNWpZMW1nRzAzX3MwTkRPVGxjTDhpN3RZTVZ6OEdIQldUVXNQaEFtU0gxaw?oc=5",
+      "source": "Drug Topics",
+      "publishedAt": "2026-10-22T18:34:58+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Drug Topics on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "512037e923a27309",
       "title": "AI-Generated Evidence in Drug Discovery: Reliability, Legal Risk & FDA Compliance",
@@ -73,6 +91,15 @@
       "publishedAt": "2026-10-20T04:32:26+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from Florida Hospital News and Healthcare Report on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "037d74199b21ca5e",
+      "title": "Who Will Regulate The AI Doctors Use? The FDA And The States Disagree",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWkzZWdEZVAwa1pVVXpWNGE3Y25kYmlqY3pRUmNjODFHMnFVSHkwVjhJcF8zc2NxWkc5LVlfS09peVM4YXE5UkE2OWRkMlNJQnpOUy04dEJzMEY3b3FFWkhNdDVVcGc3cTdWMHNHdDNuRVNIZFZNSEdZU1VGRFl0SHlSNWRSbVkwQV9ocXBzOUtJUmw5R2dHN0NVekFYTzR6LUpiZjFta0R6S19KM2lIeDNTbkxRbHJIMEJhWg?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-10-19T10:30:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Forbes on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "5e5b1ddf1b635741",
