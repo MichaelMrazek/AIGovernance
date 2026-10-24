@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:12:09.175967+00:00",
+  "updatedAt": "2026-10-24T15:59:43.618911+00:00",
   "demo": false,
   "articles": [
     {
@@ -114,10 +114,10 @@
       "id": "2230a5788ec8ae7f",
       "title": "AI in healthcare: Ethical Challenges and Responsibilities for Doctors",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3Qwc2FxOWJqZW5Sa1ZGUTVMOFRXNVp0QVZXcWVrOFRBbmVxamZGZ25vNWZwbjR5a1NLRWdSVzd1aEtlTjZJSHhKWV90b2hsRWxiMmpuLW5UUkRzM2haMlNTdHNvanhnU09YR0pKTmJ2WVJRVjE2VVJRU3ozWWtpVUdPcDhaYTQ?oc=5",
-      "source": "Medical Journal of Australia",
+      "source": "InSight+",
       "publishedAt": "2026-10-18T13:27:44+00:00",
       "topic": "Privacy & data",
-      "description": "Reporting from Medical Journal of Australia on privacy & data in health AI. Follow the source link for the full story and context."
+      "description": "Reporting from InSight+ on privacy & data in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "d06797e338b04a03",
@@ -361,15 +361,6 @@
       "publishedAt": "2026-09-25T07:00:00+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Federal News Network on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "c77d9ba9ddae16bc",
-      "title": "Artificial intelligence in healthcare: contracts set the first guidelines",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzZvUzZ4dC1qem1pVHFjQ19iOGF2c09rRTVja05pY3ZNN3g3WUFTcWRrVWx1Y3VVak95OVIzQXctYXdVU01XVUpRQzBKVnJOUmc5YnJpZnFzRU1jcGhXTTBXdEU5UmpKYzdZS2RFdGN1c3FiUi1WQ3VsOXA5cHNUMmhLQnZPNmtzYWl1V3ZQakZOT0JHa0pyVVZQQUdOTDBTdGxPZDlNaDhfMGtJbldjb1BIVTNKZHdINXc?oc=5",
-      "source": "Il Sole 24 ORE",
-      "publishedAt": "2026-09-24T07:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Il Sole 24 ORE on privacy & data in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
