@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T15:59:43.618911+00:00",
+  "updatedAt": "2026-10-25T16:26:53.538323+00:00",
   "demo": false,
   "articles": [
     {
@@ -127,6 +127,15 @@
       "publishedAt": "2026-10-17T10:18:23+00:00",
       "topic": "Health equity",
       "description": "Reporting from Nature on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "ea337994462f935e",
+      "title": "Hospitals Are Deploying AI Faster Than Regulators Can Keep Up, Landmark Review Warns",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkF4S2hPeGFLaUpWYUxaVlVvanltUWh3aEMtSlFYZm94N29NYmV4Wk9WWTF3Ukl1NVFOdFQxMVl2c2FpMk9Fb2xnMmRKWHAzZnk4UUptT3RwSXgxR2gzVmV1ei1DM3dsaTZ5cVVYQ3BmazZla2gtMkt4R0oyWVNOWnY0bXZaR3F0RUdYdVFyZkFfRDRxdzF2cldfc2xnV1VzLWJydkNsd0ZxOWo0?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-10-17T05:51:15+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "7030808d8ccd73e0",
@@ -352,15 +361,6 @@
       "publishedAt": "2026-09-28T07:00:00+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Cooley on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "39743ebd0383a5f2",
-      "title": "Federal Leader’s Guide to CAIO & CDO: HHS’ Jennifer Johnson on how acquisition teams are prepping to integrate AI tools, drive efficiencies",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRVkzTThpYkVDZDMzT0JiblNubFAtN2VTMmdzeUtyVTJQSWVRV3RxLVFsOFF6bk5lTm5xNzJZVGhucHVvaGtHR1N2MXJSZG5vWEpWQVVUWFZJUzhrZ2RvbFhGRnozYXk1RUlxcm5lRW1lbm11QXE2Mk5JbHh4VHhSY21UbC00Y196dC1feWhoWVV4Y3FEbmR2NjFYZkhyUFhMdGstZVFySmJkU1FQUVEwcEstZHlqWktMUm1iaWJrSmpUMGR4cTIyeGowZlo0ZG0xQ1dIX0ZiTHdTS1dXeUdNbEZUQ1dUX3c5OWJOOEZrZ3d5dEh3ZU5GQjN6cTVSMk9fM0RwUGxaYWNjbFVGa1JDcXh4cGl4VDMtZDdvU0NJWDBESmM?oc=5",
-      "source": "Federal News Network",
-      "publishedAt": "2026-09-25T07:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Federal News Network on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
