@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-25T16:26:53.538323+00:00",
+  "updatedAt": "2026-10-26T18:42:03.933464+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "7ae6d82bc7fdff00",
+      "title": "ATA Action urges FDA to build risk-based framework for AI-enabled medical devices",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3ZuVDQ1SVB0S25jLXVrcXNpeEFhX0tLWHV4RVM5NUtWWDFiUkMtdjdGTHpGc2U1NHlzWG1qS25rWEdIZ1BST3JWZzJudVVNamg1UDB3WmhtOFZ5VEZrUEJXOW9ZWG5MRGFnXy1HckxSVDFrdWUybklmYmI5Z0hSSzY5aG5pNDFMSHBYNEN6UnA2c3dlUFZRaXFvNmt2UV9qd2haRkw5WXh3QWZDcDhJejVFQQ?oc=5",
+      "source": "HME News",
+      "publishedAt": "2026-10-26T14:39:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from HME News on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "582134b6b6ea67ed",
+      "title": "Public health commentary urges responsibility for vetting AI content",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVlSMklGMGx2Qk51VDVLcTV1WHFqWGdKUTd2d3dWbDhtZnE3N2w2TUJqX3huZk5wek04S0I3WDQ1bHk3Rk5PM0ZxZEFnTjNPMUZsQUdpeEdFWTYzb1F3U0pjODh4MUpmd2x5c0FxeXhUS1dOdFJhVC1KSGZjaHJtUFNGSmZ0QWxFQ3pUeW5HUUNOTnRHcjVHWA?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-10-25T23:33:42+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "57448557fa0c9982",
       "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
@@ -273,6 +291,15 @@
       "description": "Reporting from MedCity News on privacy & data in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "325e98cf2cac02e8",
+      "title": "FDA’s AI Risk-Based Guidance Shifts Validation Burden to Sponsors",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW9oMnhJdnM0VUNnWEl5SmZyUTBCZ21zOHBScUliQXIxT2prNGdwQXJvbVBqMlVUR3JwTW4zVWNWUUlsbS01RDc1dUE4TVNRVWFoVkhqM0QzYWI4a0F4dmN5V29wM0Jrb0ttcHBJeVR2azhkYzd2UVcwTGFMZEpwbDJLVmpKdVYwVE9udmNLM29nWGpYVTlmc01uaWZfR2dZNmp1Zi0zOU1ZX3Vz?oc=5",
+      "source": "The Clinical Trial Vanguard",
+      "publishedAt": "2026-10-02T07:00:00+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from The Clinical Trial Vanguard on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "811f4a15060a678b",
       "title": "Towards the responsible use of artificial intelligence in the health network",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW9BVXNpYk8zTnYtZlNJOU03bnN4ZkhkWkJNRGh6aXlpM2ZwbVBWekM4blhGaHhrSWNlTWwxVVozNjljUUFIQjd3c0d3bGhSQjZEZ2trakVua21NQ2VCaE42SmFrckZlaTNVa3FTOFEtT1hyTElXYTc3OU8tdlF5M0tPZXBkNlU4Q0lYWHQxRURqVDF4am5EVnduMTlWendGMURNaDlNX1NTUTcxTjdDTVo2WW5uR3l5Z3FfcA?oc=5",
@@ -280,6 +307,15 @@
       "publishedAt": "2026-10-01T19:55:34+00:00",
       "topic": "Health equity",
       "description": "Reporting from FIQ on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "5e7e055422a2f5c1",
+      "title": "WHO and Partners Discuss Governance of Traditional Medicine Knowledge in the AI Era at WIPO-IGC",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2JEVzBaMnJmODBIM3FsNkdMX2JQR015NTljVGJNNGhtb0M1bWxoSmlJT3BGS0F5d1pTX1F5bl9FY2x1ZmtQY2pLY29ZVmhBVEpfaUd4UlpXMXZ0VXMyclBCeXBLakJDTTRMR2pCQjB1SUtaTmRLUW5fUlpBRVNfTlZxMXd5dXh5WXpadmNhQVYzYnVIRFB0eTVhSnNlUEFpRFJCMmVVbWVxYV9SYmJRaHg2d3NhOGxCZy1ZaUU1aVlVMndBQ2lNMDFn?oc=5",
+      "source": "Voice of Healthcare",
+      "publishedAt": "2026-10-01T11:30:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Voice of Healthcare on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "724e495a14862258",
@@ -334,6 +370,15 @@
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Fox Business on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "29b03f3d232c45be",
+      "title": "Conditional Optimism and Systemic Constraints: Healthcare Provider Perceptions of AI in Safety-Net Settings Using a Mixed-Methods Vignette Approach",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15QThSbFgwblVwYzJfQk5KOWwtQTFLTVVac3VaYnpXek1kUVhCTmVYRmNPcHF5MW1YdGVrX2Y0RDVZYXFSOWtFWXpMQ2ltNFNGdEw5c3o2T3FLLXpmajlBS1RCTGhFaXRKejQ0U1laTlQtYnRDSFpWbnU3R0E?oc=5",
+      "source": "medRxiv",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from medRxiv on health equity in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "21125ff8cfb167ba",
