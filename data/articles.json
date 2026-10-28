@@ -1,15 +1,24 @@
 {
-  "updatedAt": "2026-10-27T18:02:25.802662+00:00",
+  "updatedAt": "2026-10-28T18:22:03.006354+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "27da9cd477b8fe50",
+      "title": "AdvaMed Encourages Risk-Based FDA Approach to Generative AI Medical Devices",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUVuMDhNcDVueW1hLVRXMXkxQ0Z5a2h1UkpjOHI1bFgzd2dqcld4MlU3TEkwVExvMUE5UXVhRWJTdUloLTNZSER5SzBGemt6SjVhQjlrRFJDMlR0TFMxenNENlBfUktUWm5Qc2R3M2VvZTYzQ0NaT0JkZmktVTFKYzhDRjJyeVp3Nm1NcFdmS2FlZm9OYWdwM0FrcjAycEk0T21SVnZmdlRkVUtmUXNUR0FfREMtdTJ3YmhfY1NRRQ?oc=5",
+      "source": "AdvaMed® - Advanced Medical Technology Association®",
+      "publishedAt": "2026-10-27T19:01:30+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from AdvaMed® - Advanced Medical Technology Association® on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "b7ad1e82cc06faff",
       "title": "Why Public Health Leaders Must Own AI Risk Decisions Now",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW9DemZJTGQ4bWlKTTVHdWE4Nk0xTWtXU2VBOGhoY0hMLUQzakNnRDV3Y2IwNlB2bUN1SFhFdFBJTl9wVFRFRWYwdmxPZUhyNWp2REtCZ1FNeXhjeVFFcEM3c041YUIyRkNKV0ZOTlJfc0FFMHZKY016SzU3cVcwNlp1ZW5KdUhz?oc=5",
       "source": "Bioengineer.org",
       "publishedAt": "2026-10-27T15:49:36+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Bioengineer.org on health equity in health AI. Follow the source link for the full story and context."
+      "topic": "Privacy & data",
+      "description": "Reporting from Bioengineer.org on privacy & data in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "356a2ed244d0c135",
@@ -138,6 +147,15 @@
       "description": "Reporting from The Clinical Trial Vanguard on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "2a869847fdbde491",
+      "title": "CMS AI Healthcare Initiative: Tech Industry Access Raises Privacy, Transparency Concerns",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1lpb25pVUhzQmUzRHZ1bUVvVmhWYmlfWW5KLUdHRU1rVi12dklieUdPYThDTzZYc29NeHBGdENTZkxVMU5JajZJQnh4WEF6bVZTOThGdlI2RFBHSkVSMGprVVpUbGQ4LXVIZ29lOGY1bTFfejQxQkFwMFJXekRDOW5kTFRaWWszOVRRVHlJdlBoZXR2M3FnYVBzdVQyVDUzakFYTmhMMGNFSTRWVV90SEZnYnpNdw?oc=5",
+      "source": "Telehealth.org",
+      "publishedAt": "2026-10-20T08:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Telehealth.org on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "49fecd23d7aae609",
       "title": "AMA Outlines Path Forward for FDA Oversight of Generative AI in Medicine",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTQ2QlpWS0JURGFCdUZJeEI3Q3NHOVAySTBRcWZVTGtkNmxqa2QyVGlfWDJvWm8xb1hrUVVIbEJRLUtrZjhCODNadmppaXhrUUt6N3M2MEhwblJVQmZ3UFJ0c0tfQjhwVXVxZk9hZ25Ia3VUbDNJZnJlUUR0dWJoTWlpaTF6b1R2N0hBaGZaVUowT2ZoZVlHTVoxU09yVFQ0eXRLd2d2dlhlWXFPbHYycEpsbHg1VmtwVm9EZEdR?oc=5",
@@ -255,6 +273,15 @@
       "description": "Reporting from Governing on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "478c0b36da61a452",
+      "title": "Utah pursues governmental validation of healthcare AI tools",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWc1T2xmeTNXb25IWGcxOWNFTWR4Y2czem9LYlhYTjlyY3NxZlltbVE5R0dmSTFueFdzQkEyOGdsaW5fUlM5SjRiUWJ0S0dheTJMY2Y0Z3ZmYWVGVHphMmQyNE1ybUtSMDN4Smp2VWJGVGhsT2tEZjJ2UzczZS1MUGw4bUtuSVV4VGlsaE5ZQUluS3RKQ3Q1Qml3?oc=5",
+      "source": "Healthcare IT News",
+      "publishedAt": "2026-10-12T07:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Healthcare IT News on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "c4da7710c4e95fca",
       "title": "The Drafting Fiction: How Regulators Really Govern AI Scribes in Healthcare",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORF82NDdMNFNvSTZWMDRJaXNZbW5wRUsyQUFPMFhtSG55WFhHeXVvd0t5cERQV1N2c1RoenBsbTgydGZYVHlJQ2xvUkZJNHVpdlJ3UFpSXzNiYk1IX2FzN2VOQUFmWUJHOVdqWDY4VlRxVktSX1dTLTlBNzZIbUlsajBoa0pXb1I5WHhxU1Q3M0QtMjZ3ZXB0cWVscFdLb21Z?oc=5",
@@ -280,6 +307,15 @@
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Modern Healthcare on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "6ca8e66b3fdf7c31",
+      "title": "Healthcare AI and gender bias",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96ZVAzUG9jY1cyZjdTLXR3WG5Qd25Ydm5vejlMdTlsZlZkTDVrblpoV1hNbVJiQzhaSVh3Y0lsU0NUWjhjSE5UbTV4eVh0YmRvcmxmaktmdXViVkZYTmFBZXhqU0pLSW9CQklYVlNVZzR0U2xDYXBjMA?oc=5",
+      "source": "Healthcare Leader",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Healthcare Leader on health equity in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "2e9535a3eb147fb8",
@@ -327,6 +363,15 @@
       "description": "Reporting from STAT on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "b92864d5027bc117",
+      "title": "A Maturity Roadmap for AI Adoption in LMIC Health Systems: A measurement framework for robustness, equity, impact, and sustainability",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0xQMDJqaE9MR1pKbmtTWEhDWEtTQmVDSXotamZwRlNhdkhjeDFZLTVJSmpoWVhrbmNTOFRjM2VLOHhxVW5SNXZqWjJ3cmJTMS1fN1M2bjFNTlZ3REhaUjk3d0dLcWlidWh0aGRvaTA0RGdCeEJTZTlyTlBTQnBOaU5NdE1LSkllY0M4XzAxQTEtUkRmUTFTNVF2dzlqdTllRExZUDFUcXRqVmJJY3kxSFJTMkQ1NGVtSEQzNmJRY0RhcFRkWUUtQw?oc=5",
+      "source": "Duke Global Health Institute",
+      "publishedAt": "2026-10-06T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Duke Global Health Institute on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "2083de5a88361c9b",
       "title": "FDA Develops Regulatory Blueprint for Generative AI-Enabled Devices | News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHppd3BvSHBKbG0yYVRQb05saWhxOTR6TnllOFd3THdHeVI3Nm5WaFVIQW8xdTg3NkhOcWhqekhCczFDX1NrRHdZb3pMYnhlUWMzajYyVHdrS0RKN1E1MEN6VVlhYUowYkoweFdvVHJlRE1oTVZGT1J4dnFUeFBMX05ZV0RoOWc?oc=5",
@@ -343,6 +388,15 @@
       "publishedAt": "2026-10-04T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from MedCity News on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "abc73583a88b1c7e",
+      "title": "FDA to prioritize guidance on AI, surgical robots next year",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjZ4NEZvVEpMeE8teWhzNnZPMGRVenRheml1SS1oRzBrOXF6VVFLb09qZXQzbjdlNjVuZTQzZGVRMEF4SUI1MlpLUEZpR0J1TlpvQUVkZUpSYnhOYzZIc0JQa2RXV2RGUzVQWWVJdllsOUtoa2pvZ0hsR3dQYS1KMzhZUHZJTDZKb01UTjViU19CX2dLMDV0V3Yxa29fT2M5?oc=5",
+      "source": "MedTech Dive",
+      "publishedAt": "2026-10-02T07:00:00+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from MedTech Dive on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "325e98cf2cac02e8",
@@ -372,15 +426,6 @@
       "description": "Reporting from Voice of Healthcare on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
-      "id": "8ab0d20a6e0d4d4d",
-      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzl5OHVlczdydGxrX1FIUzZ0ZENaQjFYcEdjZGc1NE9wR201RkJLRDRscV8zNHN6WkEzTG5YYmhkc05qb2RwNXlRNmpzLWxBbmxkS3lUYlZmYVVDODJDSVdFOTl0Q3RwRGxXZjc1NEZCRDhVcnA5RXBaOV8yMm96QnZyZzRWT0twWGxvWkJpMU9fTmFfRnlkWGJB?oc=5",
-      "source": "Healthcare IT News",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Healthcare IT News on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
       "id": "724e495a14862258",
       "title": "Reframing epidemic early warning: toward AI-native decision intelligence for public health governance",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMZi1ERzh6X1ljSlBUSVd4Y0FhM0pVZG5LNVRheEowMEJZeTUwd0VBcm9ONUs3TlBwQW5iVjc3RUdvZlFRalRMQXJHeFZjajAwMXVOTktrTElPcGNwUWxn?oc=5",
@@ -397,6 +442,15 @@
       "publishedAt": "2026-10-01T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from Healthcare Dive on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "8ab0d20a6e0d4d4d",
+      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzl5OHVlczdydGxrX1FIUzZ0ZENaQjFYcEdjZGc1NE9wR201RkJLRDRscV8zNHN6WkEzTG5YYmhkc05qb2RwNXlRNmpzLWxBbmxkS3lUYlZmYVVDODJDSVdFOTl0Q3RwRGxXZjc1NEZCRDhVcnA5RXBaOV8yMm96QnZyZzRWT0twWGxvWkJpMU9fTmFfRnlkWGJB?oc=5",
+      "source": "Healthcare IT News",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Healthcare IT News on health equity in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "ca40200f0d67cdac",
@@ -451,15 +505,6 @@
       "publishedAt": "2026-09-29T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from US Times Now on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "7d614a6a0e63c16e",
-      "title": "Regulating AI Like a Doctor: FDA Floats Competency-Based Path for Generative AI-Enabled Devices",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWlGeENrTzItSk9OZjdWTXoyYjFyOGNDWUZVNWNycjVPLVFsU2l1Wno0YXdIZWp3X0xsR1g2eGZ4X01rRWl6a1dBZ25jR2JjWnlFdHF6ZEtuY3hJUTZQaWV5Z1Ftc3k2ZllENUM5amFMWWtrdTctdjhjUmFYVmdIa2ZfeUFIalREblA2VzdBUnRFeWhDaHVFcFNXMUZrckFzd3lEbDJERjZtaDlxTTZhTzVxSG9CTlk4ZXNoRFF4eHNaSk9aMWxESVAtd0pfRkNib2ZZblFVcVZBUC10Q2M0?oc=5",
-      "source": "Cooley",
-      "publishedAt": "2026-09-28T07:00:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Cooley on safety & standards in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
