@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-30T18:02:28.080360+00:00",
+  "updatedAt": "2026-10-31T17:15:45.655688+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "b3523227516740ee",
+      "title": "This Week at FDA: New ConOps for drug inspections, AI policy proposal, and more",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTdVZnRTZ0RSS25VSVdhVW5iZTNxVTlWZEdGb1gzeXlFV3czYmNXQkhia0pRUEZWOEFkV2d3VlZ6SDJWclJPaGRNUk43WmExU2ZGYmVmY3FaTkpyU3VfaUViSHVCdkRDbzY3SzZ5Wk15TWxiU0ZLbWhoZlNnSER4d3JKeklZcHhaU290aWlxTUdXNWFvM3ZnVmxJek5jZzlITGpPZDYzN1pRNFpRVFI5Wg?oc=5",
+      "source": "RAPS",
+      "publishedAt": "2026-10-30T21:37:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from RAPS on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "89a75b150a1e9b16",
       "title": "MP pushes for regulation of AI in healthcare, medical education",
@@ -196,7 +205,7 @@
       "title": "FDA AI Guidance Requires Sponsors to Validate Clinical Trial Algorithms",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjR4T2ZfMVBqUWRrSV95NV9BalZtTm9JSy1QQkNCSGxyeUhDZlVmQzdCTUszVXZsN25QR3gyVmZRNnNnYmExRHp6X0JJeDJsRVdNeGx6dlhVMC0zR2QxX0lBdGFaaW5ITHJVb1IySTRvWnBZa1Z2NlJEa3p4NGM4SVBXWkdTQ0FzTzVkd1I2bWxjbENNbU4xbEpDS1FoclVManMydHZlWlRMRzJvSV8wekxQQy0tQQ?oc=5",
       "source": "The Clinical Trial Vanguard",
-      "publishedAt": "2026-10-21T06:50:57+00:00",
+      "publishedAt": "2026-10-21T07:00:00+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from The Clinical Trial Vanguard on safety & standards in health AI. Follow the source link for the full story and context."
     },
@@ -235,6 +244,15 @@
       "publishedAt": "2026-10-20T08:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from Telehealth.org on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "b4c24a6d76a5b120",
+      "title": "AstraZeneca and Oracle Outline AI Collaboration for Clinical Trial Recruitment and Safety Monitoring",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcExpNWlqaUl0MXpEM2lkNnQ5bDZsUm9oLTBxbzZKcHVydGd4RW9kai05bTgtQU84VUtzaVA2SDR1dVNzOWZVTk1BZ0dQcEpUVWlpNV9Ldkk1QWE2TmdaTi1DbFY0ZWx6blhGVEJiY2dIU21sOFN0WHUwNW9PdDlKX2ZpQjZ4Sy1MZzhaaElGLWI5VWFSSllQOW5JU3VEZFR2YzRSbWVYTlBBVHhOYnhHU3diVlA3ZElDemJIb0l6T2xlamZPZ1oxbQ?oc=5",
+      "source": "Applied Clinical Trials Online",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Applied Clinical Trials Online on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "49fecd23d7aae609",
@@ -496,51 +514,6 @@
       "publishedAt": "2026-10-01T19:55:34+00:00",
       "topic": "Health equity",
       "description": "Reporting from FIQ on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "5e7e055422a2f5c1",
-      "title": "WHO and Partners Discuss Governance of Traditional Medicine Knowledge in the AI Era at WIPO-IGC",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2JEVzBaMnJmODBIM3FsNkdMX2JQR015NTljVGJNNGhtb0M1bWxoSmlJT3BGS0F5d1pTX1F5bl9FY2x1ZmtQY2pLY29ZVmhBVEpfaUd4UlpXMXZ0VXMyclBCeXBLakJDTTRMR2pCQjB1SUtaTmRLUW5fUlpBRVNfTlZxMXd5dXh5WXpadmNhQVYzYnVIRFB0eTVhSnNlUEFpRFJCMmVVbWVxYV9SYmJRaHg2d3NhOGxCZy1ZaUU1aVlVMndBQ2lNMDFn?oc=5",
-      "source": "Voice of Healthcare",
-      "publishedAt": "2026-10-01T11:30:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Voice of Healthcare on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "724e495a14862258",
-      "title": "Reframing epidemic early warning: toward AI-native decision intelligence for public health governance",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMZi1ERzh6X1ljSlBUSVd4Y0FhM0pVZG5LNVRheEowMEJZeTUwd0VBcm9ONUs3TlBwQW5iVjc3RUdvZlFRalRMQXJHeFZjajAwMXVOTktrTElPcGNwUWxn?oc=5",
-      "source": "Nature",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Nature on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "a3c0130b75e6a316",
-      "title": "Data privacy concerns could hold patients back from using AI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1lKbFR3eDYwNGN0SkktZDVoTXQ3TDhBVzQtN0tmT3g2eFZZT3Zsa0F1c1QtbXcxU3N2NmpjTVEwYWgxMjdUbWlrVGpacUNDVTk5WnRVU0F1UzFVSXFxNFVRNnZoSFV5UWNxNGdONlYweXJXaDVpdHI5YkVsMlloYzdIZE4zcjVMVVNxRnJ2bURnckNfd0ZzOXNscERjaFZweWY5cVhXQQ?oc=5",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Healthcare Dive on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "ca40200f0d67cdac",
-      "title": "PA Lawmakers Vote To Regulate AI Use In Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkptWTJOZjdQU0FZLVFUZGhCdTdQa2daNmR1VktzWi10NGpLd0JyTGR4WUdpb1pCcXp5ZFdHV1duZlNEbmJSaU5qeHhjNkRuY1J3MnZXSzAzdmVqSTh5V0xqX3hnSll4X1VmdDZBQXh5U3RrbE9kV2FXRGUyVVZjNzlQYXJpYVB2WmF3OGVTaw?oc=5",
-      "source": "Patch",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Patch on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "8ab0d20a6e0d4d4d",
-      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzl5OHVlczdydGxrX1FIUzZ0ZENaQjFYcEdjZGc1NE9wR201RkJLRDRscV8zNHN6WkEzTG5YYmhkc05qb2RwNXlRNmpzLWxBbmxkS3lUYlZmYVVDODJDSVdFOTl0Q3RwRGxXZjc1NEZCRDhVcnA5RXBaOV8yMm96QnZyZzRWT0twWGxvWkJpMU9fTmFfRnlkWGJB?oc=5",
-      "source": "Healthcare IT News",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Healthcare IT News on health equity in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
