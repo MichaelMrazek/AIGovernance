@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-31T17:15:45.655688+00:00",
+  "updatedAt": "2026-11-01T17:56:36.723197+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "fa63e18e809efc71",
+      "title": "Responsible AI in health care | Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemJvVFlNUDRkakItUjBkakJmMGdKTjVlUllqMFkzQVpxek9JMW41Q3hEbGpmbnpxODc3MDRveGhJb21VbTVVVU5kbC1CbHR3TW9EVWtGVWRCU01GLWVxZmc1azVuUU9lYlZhUTNBeHBTX0U4UWc4ZnBsWVlrbTRIdjJxUWRmaFFmazhwNlE0SnZpVVdPMUhZbklqMmIwMGI3NmdaUFBJS3Jod9IBrwFBVV95cUxOX29BSm5SbXpuRDNhdWJ3ZGpoU2lCYnpZOTkzTE1kNWVDRWZsNkFOc0txMWIyY0UxTWJISl93LWltWmRMRzJ6cXIxR3Zhblk5V1VCWG9yN3lRMkRocUJoRlE0Ni1DQ1BoaUJCUFhrcktyR1ZHYTBMd2ZwNTZsSVptWjhLT1FoTnlIdlNYTDlJak85STlpUGZKeU8wRDJaQTBDUGlKTjVhQXhyWVkzelFj?oc=5",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-01T10:16:03+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Hindustan Times on safety & standards in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "b3523227516740ee",
       "title": "This Week at FDA: New ConOps for drug inspections, AI policy proposal, and more",
@@ -62,8 +71,8 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRm42cnBDemNrbTFCbzhBSVczQ2hGTE5VcFo4NDJvQUFfNEJ4SC1vUjUxRWRnRHNMaWdpa09sT2lRcTJ2cDR3SnFyZ0dGekhISUdNdEpUVlJsaVh6Y2VLNWpfQjl1a3Z4Q3ZjTHZFMzdRQXNRSXg0?oc=5",
       "source": "CASRAI",
       "publishedAt": "2026-10-30T01:48:38+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from CASRAI on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from CASRAI on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "6981de01296730e1",
@@ -116,8 +125,8 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmZnaGRZekVtNFpXLXpuRmczeXI3aTZvbkg2a2w0bHc0c1dOS1B0UHdBQUI3OVlPdGFJYm1teDZTdzhfNGFHUi1yajExellZQ29XUXBpbGRpNV9tMVQwekFsTTN0aVVXRlF2anpvampvTGs3emJoSTJCZDlMUFhOeUtaUjMtelZsRC05cC0xUQ?oc=5",
       "source": "Bioengineer.org",
       "publishedAt": "2026-10-26T22:49:07+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "7ae6d82bc7fdff00",
@@ -125,8 +134,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3ZuVDQ1SVB0S25jLXVrcXNpeEFhX0tLWHV4RVM5NUtWWDFiUkMtdjdGTHpGc2U1NHlzWG1qS25rWEdIZ1BST3JWZzJudVVNamg1UDB3WmhtOFZ5VEZrUEJXOW9ZWG5MRGFnXy1HckxSVDFrdWUybklmYmI5Z0hSSzY5aG5pNDFMSHBYNEN6UnA2c3dlUFZRaXFvNmt2UV9qd2haRkw5WXh3QWZDcDhJejVFQQ?oc=5",
       "source": "HME News",
       "publishedAt": "2026-10-26T14:39:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from HME News on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from HME News on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "582134b6b6ea67ed",
@@ -170,8 +179,8 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPXzNkV2c5dk43d1d5alhkOW9BbkJyY2h1VHNEd283dVJZdEc5dGhqbkpjNU1jUHpjXzZDRk5PTndtUmtUZ0hIVWxuRmlLMzN5OGczVlB4b1dWZDloMkV2eWc5ZEJVRkRvNkZ3MXYyOC1QMFRqTWJzTUZkVUl6cHJ1VVVyMk9TZ0xDOGs5eGRMWFVCWFZHUF9TLWJfMnhSbGNrSVVyWWJicGtNT3BvQmRJYlFGT1pkTVJuQWlITUg5MHRKMlRtREprc2xBTEZ2Wno3NU5yQlhYZGNrd3I3bzFlY2NhQWZtazhrWW1nbktxTlNDakE?oc=5",
       "source": "Crowell & Moring LLP",
       "publishedAt": "2026-10-21T23:47:03+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Crowell & Moring LLP on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from Crowell & Moring LLP on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "984436834daf3741",
@@ -289,6 +298,15 @@
       "publishedAt": "2026-10-19T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from InSight+ on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "01083bce824bb4f2",
+      "title": "The Hidden Bias in AI Healthcare May Come From Clinicians, Not Algorithms",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1d1cGltenp6TzJkd2tkcXMwME55U0FpMWhmemc3VVBJT21qS0xZbzBLQjZtUGgxYkIyMmRUM3h4X0J2NDNaS3ZHS0R4UnE0aWw1NU9ZMWhrYm9WbUlFYno3cm1ya1h0U0JuRGRhMWRFMzEtczhGc2psdHZCVjcxS0U0ck1jazlIZEplczJrVlMtRXVlcHg3ck0wWkJtQQ?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-10-18T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Bioengineer.org on health equity in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "d06797e338b04a03",
@@ -444,6 +462,15 @@
       "description": "Reporting from Tekedia on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "2ee1a58e5ec938c6",
+      "title": "Can AI Pass the Doctor Test? FDA Considers Physician-Inspired Evaluation of GenAI Devices and Other Regulatory Measures",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fcEJZUHoyOG53QVVpZ2pIS2RjalE5enZvaTVYQW1rSjFQcHYzS2Nub0FjY0lSUFJtTlJlVnNaYlJBcU9kYzhaZE9OcFpvTVJtWVJSSEp6UmdGdkdCcXBfVXlDR0I3Rklwemt6dzVOZVAyMEpNYnkxYjFzbjdSeUU?oc=5",
+      "source": "JD Supra",
+      "publishedAt": "2026-10-08T07:00:00+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from JD Supra on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "db3803b27d3e4e2b",
       "title": "California Enacts Laws Regulating Artificial Intelligence in Employment, Healthcare and Biosecurity",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9PeWhxSEctaGRNSC1TVS1MS3lPRFlLM1lGYmhmS1NZZGk4WUFXeUdVOUZlRml6ZHhZVXVfcWFvd0lHS3JqRUZPdzdoQmdqaS0xM1JrTnluQWp0THFUVDFYX0VNX08xbUlZRGhxdVpCcjFxbTFhdWlzbWZwQXltNm9wNEczZi1PaXlqcFlwLXQ1SFdjVzlsazctZEE2Ym1yQUNFX3RvdXlhWDk1U3VWX0owTTE2Zjd5NGNaSFlsU0lvSThvWXNDVVBFd1pCUQ?oc=5",
@@ -476,8 +503,8 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHppd3BvSHBKbG0yYVRQb05saWhxOTR6TnllOFd3THdHeVI3Nm5WaFVIQW8xdTg3NkhOcWhqekhCczFDX1NrRHdZb3pMYnhlUWMzajYyVHdrS0RKN1E1MEN6VVlhYUowYkoweFdvVHJlRE1oTVZGT1J4dnFUeFBMX05ZV0RoOWc?oc=5",
       "source": "JD Supra",
       "publishedAt": "2026-10-05T07:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from JD Supra on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from JD Supra on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "b9b905446edcffb9",
@@ -487,33 +514,6 @@
       "publishedAt": "2026-10-04T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from MedCity News on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "abc73583a88b1c7e",
-      "title": "FDA to prioritize guidance on AI, surgical robots next year",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjZ4NEZvVEpMeE8teWhzNnZPMGRVenRheml1SS1oRzBrOXF6VVFLb09qZXQzbjdlNjVuZTQzZGVRMEF4SUI1MlpLUEZpR0J1TlpvQUVkZUpSYnhOYzZIc0JQa2RXV2RGUzVQWWVJdllsOUtoa2pvZ0hsR3dQYS1KMzhZUHZJTDZKb01UTjViU19CX2dLMDV0V3Yxa29fT2M5?oc=5",
-      "source": "MedTech Dive",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from MedTech Dive on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "325e98cf2cac02e8",
-      "title": "FDA’s AI Risk-Based Guidance Shifts Validation Burden to Sponsors",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW9oMnhJdnM0VUNnWEl5SmZyUTBCZ21zOHBScUliQXIxT2prNGdwQXJvbVBqMlVUR3JwTW4zVWNWUUlsbS01RDc1dUE4TVNRVWFoVkhqM0QzYWI4a0F4dmN5V29wM0Jrb0ttcHBJeVR2azhkYzd2UVcwTGFMZEpwbDJLVmpKdVYwVE9udmNLM29nWGpYVTlmc01uaWZfR2dZNmp1Zi0zOU1ZX3Vz?oc=5",
-      "source": "The Clinical Trial Vanguard",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from The Clinical Trial Vanguard on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "811f4a15060a678b",
-      "title": "Towards the responsible use of artificial intelligence in the health network",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW9BVXNpYk8zTnYtZlNJOU03bnN4ZkhkWkJNRGh6aXlpM2ZwbVBWekM4blhGaHhrSWNlTWwxVVozNjljUUFIQjd3c0d3bGhSQjZEZ2trakVua21NQ2VCaE42SmFrckZlaTNVa3FTOFEtT1hyTElXYTc3OU8tdlF5M0tPZXBkNlU4Q0lYWHQxRURqVDF4am5EVnduMTlWendGMURNaDlNX1NTUTcxTjdDTVo2WW5uR3l5Z3FfcA?oc=5",
-      "source": "FIQ",
-      "publishedAt": "2026-10-01T19:55:34+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from FIQ on health equity in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
