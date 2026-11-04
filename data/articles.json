@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-03T19:30:41.707975+00:00",
+  "updatedAt": "2026-11-04T19:48:10.926509+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "1ead443a8443b770",
+      "title": "GuideAI Health Corp. Shares Decline as AI Healthcare Stocks Face Sentiment Pressure",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWFg3bkFxZXBiXzhJVFJKNnlHMlU3TDRySFNqT3RsZlltanVnNVRackhuYzIwZ3k0cm5VZlRZd3BEb0JaWXdGVHpCQ3RBdzRFNm5adGxyclBZNVFTSi1EaE1BRl9wbG5xSTl2YldzLUdTSWZsWHFKRl8zNjVVSU1WWXdJMWt0MWV1ZHJZVnhudWFZY3JOT0FDa3MxTFNwTnRMNlBZLTdpbEtMNEt5cXlUYmhHMzVfVHdnbzZtV3E5LUc0aDc5NFlwbk5B?oc=5",
+      "source": "kalkine.ca",
+      "publishedAt": "2026-11-04T09:21:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from kalkine.ca on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "cabd4547a581f886",
+      "title": "Senate Draft Bill Seeks Inputs on Healthcare AI Oversight",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1VCd3NyV01jODBTMS1ET3FIRFk0TVk5cFl0XzE5TmpQQnhRVUZ0dW9GY1c2cG9LZXVPMl92WVhySTlDYVdXZ3hIcm1RQ0stYkpzSjd6LVNvVE9EaUh6Wll0amNnVzBlVTN3YXJobk9Odnk0ZDUyZE9nS21CY3dnOHhodU45LUNwUG5TSVpqc3h3Mllz?oc=5",
+      "source": "ExecutiveGov",
+      "publishedAt": "2026-11-03T22:08:00+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from ExecutiveGov on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "e8e985ce38157df8",
+      "title": "AI in Healthcare Raises Health Equity, Algorithmic Bias and Disability Risks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3VjbmlEVEE5Si1tbzU4NHhEUkxIakJJNEg0dDUxMk8xaEtZMU9kdUF5NFFoX0dJR3FaMkgyX2RXQ0wzMHkxTTgtbloxWFZub3RWaDlBNWozVGRQOVFLNE1XVlFRVngtckk2cTRCSnJic3JIYzRoNXVoMVc4NjAyRlNqUWlXZEkzWHFmcVRKR2oxb3lFX2tqUmx0dXo2dw?oc=5",
+      "source": "Beinsure",
+      "publishedAt": "2026-11-03T21:44:49+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Beinsure on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "88c74b389f631628",
+      "title": "HCA Healthcare’s Chief AI Officer: What responsible AI requires in healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWZBS0hHT00yYXA2Yk90N3dPUkRxaFVuRzRuODdyMW9kNTVxRkxtdmo0Q25vXzN6ei1Kc3BMNDdSVGtCSGZxaUd5QkYzVHZYVnBrX19oOFpPbXlhZVlUZDZTM3NKSXZweG9GT0RlYmhNMWNrbm1sVFVPbjZJbHF5bVNrWXJDWWtFVlRXZy1JLXVnZHQ0X0dmRFZ1b0xlbldXd3VBY1k5cW9KZGx0WHpLNDZGRkZHUWRST1E?oc=5",
+      "source": "HCA Healthcare Today",
+      "publishedAt": "2026-11-03T21:34:12+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from HCA Healthcare Today on privacy & data in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "dbb66a5476000765",
       "title": "How should the FDA regulate generative AI in medtech? Here are 5 takes",
@@ -559,15 +595,6 @@
       "publishedAt": "2026-10-06T07:00:00+00:00",
       "topic": "Health equity",
       "description": "Reporting from Duke Global Health Institute on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "2083de5a88361c9b",
-      "title": "FDA Develops Regulatory Blueprint for Generative AI-Enabled Devices | News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHppd3BvSHBKbG0yYVRQb05saWhxOTR6TnllOFd3THdHeVI3Nm5WaFVIQW8xdTg3NkhOcWhqekhCczFDX1NrRHdZb3pMYnhlUWMzajYyVHdrS0RKN1E1MEN6VVlhYUowYkoweFdvVHJlRE1oTVZGT1J4dnFUeFBMX05ZV0RoOWc?oc=5",
-      "source": "JD Supra",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from JD Supra on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
