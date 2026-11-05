@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:48:10.926509+00:00",
+  "updatedAt": "2026-11-05T19:59:25.415005+00:00",
   "demo": false,
   "articles": [
     {
@@ -44,8 +44,8 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUhfVG5sa3JCSGl2SHFNWlUxN3U1ZG04VHEzYTlndFkyY1NwbVc2Ql9qMlBpWXY5a1M4VHlQcW9fanFYdVRBdVFJX3kxY01aZXYxOUpENkEtd2xlMk15dmZHVVdwQjc0b2RGbDItOXBHQl9laG01ZzNmM3psbFZseGxXNURUcGtCQ0NRSGxrSzJPTmxpMVFxWXJub2lReDJLZUFFeUExcF95Skotb1lj?oc=5",
       "source": "MedTech Dive",
       "publishedAt": "2026-11-03T17:21:50+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from MedTech Dive on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from MedTech Dive on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "52faa19f3500309d",
@@ -568,33 +568,6 @@
       "publishedAt": "2026-10-07T07:00:00+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Nacionale on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "db3803b27d3e4e2b",
-      "title": "California Enacts Laws Regulating Artificial Intelligence in Employment, Healthcare and Biosecurity",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9PeWhxSEctaGRNSC1TVS1MS3lPRFlLM1lGYmhmS1NZZGk4WUFXeUdVOUZlRml6ZHhZVXVfcWFvd0lHS3JqRUZPdzdoQmdqaS0xM1JrTnluQWp0THFUVDFYX0VNX08xbUlZRGhxdVpCcjFxbTFhdWlzbWZwQXltNm9wNEczZi1PaXlqcFlwLXQ1SFdjVzlsazctZEE2Ym1yQUNFX3RvdXlhWDk1U3VWX0owTTE2Zjd5NGNaSFlsU0lvSThvWXNDVVBFd1pCUQ?oc=5",
-      "source": "Distilled Post",
-      "publishedAt": "2026-10-06T09:33:22+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Distilled Post on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "e482e35cd87f45e3",
-      "title": "FDA spells out 2027 AI guidance plans",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnh0a0dFY3VfWXFwamtXMEhBdjQ5SUotV0o0RUR2SW9KZHZxbWJVY3dieko1UU5vTGZaS1FtSDZwZEJIQzdzLVV0TW43cElrRjhpRnJpNFZQY3hBMjJyck93b2QwYS1YM05BcmlPRmVZS29GZWpaMDF2dlVVbW4wdk4yWjVLQnFfRmlCNkhQMA?oc=5",
-      "source": "STAT",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from STAT on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "b92864d5027bc117",
-      "title": "A Maturity Roadmap for AI Adoption in LMIC Health Systems: A measurement framework for robustness, equity, impact, and sustainability",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0xQMDJqaE9MR1pKbmtTWEhDWEtTQmVDSXotamZwRlNhdkhjeDFZLTVJSmpoWVhrbmNTOFRjM2VLOHhxVW5SNXZqWjJ3cmJTMS1fN1M2bjFNTlZ3REhaUjk3d0dLcWlidWh0aGRvaTA0RGdCeEJTZTlyTlBTQnBOaU5NdE1LSkllY0M4XzAxQTEtUkRmUTFTNVF2dzlqdTllRExZUDFUcXRqVmJJY3kxSFJTMkQ1NGVtSEQzNmJRY0RhcFRkWUUtQw?oc=5",
-      "source": "Duke Global Health Institute",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Duke Global Health Institute on health equity in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
