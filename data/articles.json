@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-05T19:59:25.415005+00:00",
+  "updatedAt": "2026-11-06T19:27:11.492288+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "90d2a2bcedeba351",
+      "title": "Geoffrey Hinton likens AI risks to Chernobyl, urges FDA oversight",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0FVRkNLQ3VWMW5QQ1MydXpHZ240RlM4X3VxWUh6WV9QV0lqa2d5NWktZWkxVHNyRlVUX0xmaUt1ZS1GRDhGYWZTUXZFU200aHBoZ09XTXRicXQyc041aEM2TS11X1N1RENuN05TY0draHdWOURfamhGbHVmVWk2UWZ5Ynowc1NUX0NVdmRPblFidHhjUW5CM2txSDUyV20zNWVTSkdJVUozUXAxbk0zRQ?oc=5",
+      "source": "NewsBytes",
+      "publishedAt": "2026-11-06T03:11:15+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from NewsBytes on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "1ead443a8443b770",
       "title": "GuideAI Health Corp. Shares Decline as AI Healthcare Stocks Face Sentiment Pressure",
@@ -559,15 +568,6 @@
       "publishedAt": "2026-10-08T07:00:00+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from JD Supra on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "f982cbbdc009e881",
-      "title": "AI Pilots in Utah May Face FDA Regulations",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkt5OUZxN01FTFFRTmtWbTRPY25CN1d2SWtqbC1na1hKSE5jbEZDTGVRNWlSbWU3OC1LNGhEWGxQcWVXcTJFMzF2VUI5UkRYZHlJaEx0V3ltdDNWbFJuVXJlU05RcDMyam54enI2eVd2ZVRaT2s4b2lNb1RQSTNZQ2UtNmo4UDA?oc=5",
-      "source": "Nacionale",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Nacionale on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
