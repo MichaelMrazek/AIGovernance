@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-06T19:27:11.492288+00:00",
+  "updatedAt": "2026-11-07T17:45:48.797292+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "3c4cfce3b731e4e3",
+      "title": "Parental Trust in Artificial Intelligence and Pediatricians: A Cross-Sectional Study of Diagnostic Preferences and Healthcare-Seeking Behaviors in Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZ0dHZTZfbjcwVXNNMVVRLWY5dEFHWE1Ed1B6a1E5SzdsWDdiSFBUbXZoTnRVVVZSNGRlWEJQTVhHVUgtSC1kZzJ6Z2RtRms5YVpiVVhFaVhCREp6S2hxQk1EZUdzaHZ4MXUwUUJ2NDZCaVpjSDlpTU9WYjY5MVQ1NFM5ZmktQWYyZ3JLaGFYUlBoZC1jSmlPM0pnemRFaks0dnFDRFBLQzk3czI2OHhoRlpESklmZHlnVGQ5WDRsMVYyemZ1V2JWSEIydW5XQjNIbmw5cWpkaHFkUmdFR1QyLTlxaWNCeFJEblFMWnB5Z2FZQThrQ1ItdHZsdXBQTVlXR3dEQjl1ZGh1STdSX1FjQWl5SG0yTk12bHNQdlY4eTk4MkU?oc=5",
+      "source": "Cureus",
+      "publishedAt": "2026-11-07T01:25:12+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Cureus on health equity in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "90d2a2bcedeba351",
       "title": "Geoffrey Hinton likens AI risks to Chernobyl, urges FDA oversight",
@@ -372,6 +381,15 @@
       "description": "Reporting from Radiology Business on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "6378c7023132f297",
+      "title": "Healthcare AI Governance Market Size, Share & Growth [2034]",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVZueG5IMVY4NWtOaVhjeENSaGZHbkRuS1pZdllVSlhXM2lfZFZSd3hvN3FVVVBfOUFhaXdsOGExNTFoSkE5VWw1ZU9BLU1NWjBzbWd2WlpGY255ZjNqTHEwdE9nVkk5a2FDMklZcGpybmVtbXRvbzU0RUJxNDYyR2ZndU4?oc=5",
+      "source": "Fortune Business Insights",
+      "publishedAt": "2026-10-19T07:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Fortune Business Insights on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "0e56d45430175860",
       "title": "Trump’s Medicare AI Push Raises Patient Data Privacy Concerns",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXctVXNwdWZJYXYyakRLb19MTUV2OHNJb21ZSW05eV9nLXdSQm5ZMjBNRENoSmZha2Q3eEhOSkpWR0I4OWFPeHVDR1ZPcGg1UjNLYmp1c043UGZSM0R6SnNmRDRsYVNTS2Fpd0JZR1dZSzZjaTc2R0d6UmVYenplQVlWeTFSMXV1cXN3NVFLR3FyNlk4SzJQZENjMUdnYk53YmhlTl9iWF93TUxBY3ZOakJZMmI?oc=5",
@@ -480,15 +498,6 @@
       "description": "Reporting from Governing on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
-      "id": "6378c7023132f297",
-      "title": "Healthcare AI Governance Market Size, Share & Growth [2034]",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVZueG5IMVY4NWtOaVhjeENSaGZHbkRuS1pZdllVSlhXM2lfZFZSd3hvN3FVVVBfOUFhaXdsOGExNTFoSkE5VWw1ZU9BLU1NWjBzbWd2WlpGY255ZjNqTHEwdE9nVkk5a2FDMklZcGpybmVtbXRvbzU0RUJxNDYyR2ZndU4?oc=5",
-      "source": "Fortune Business Insights",
-      "publishedAt": "2026-10-12T07:00:00+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Fortune Business Insights on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
       "id": "478c0b36da61a452",
       "title": "Utah pursues governmental validation of healthcare AI tools",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWc1T2xmeTNXb25IWGcxOWNFTWR4Y2czem9LYlhYTjlyY3NxZlltbVE5R0dmSTFueFdzQkEyOGdsaW5fUlM5SjRiUWJ0S0dheTJMY2Y0Z3ZmYWVGVHphMmQyNE1ybUtSMDN4Smp2VWJGVGhsT2tEZjJ2UzczZS1MUGw4bUtuSVV4VGlsaE5ZQUluS3RKQ3Q1Qml3?oc=5",
@@ -550,24 +559,6 @@
       "publishedAt": "2026-10-09T00:10:00+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from Newswise on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "41de9c9fead2f174",
-      "title": "Geoffrey Hinton Calls For FDA-Style Safety Approval Before AI Systems Are Released",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenluQnF6YTBZaW12ZmlOMnI5ekhCZnotdE5VVmJaXzljMTJzOGYxU0sxTXFlQXk5YjA5R1hNV1luMWhndjN6aW1pM0lnaURlX1dQd0dQYVNYX0MtbXdfTk9HRGtMM0ItZTJTOGRERnE0UXFsb2c2TVp6WWFVRUNFMXFmazJrTWJxMWhSVnF3dXp2Sk5BRGN6SDZmMFh0bXRmdURMU1dUX0YxNmc?oc=5",
-      "source": "Tekedia",
-      "publishedAt": "2026-10-08T11:05:13+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Tekedia on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "2ee1a58e5ec938c6",
-      "title": "Can AI Pass the Doctor Test? FDA Considers Physician-Inspired Evaluation of GenAI Devices and Other Regulatory Measures",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fcEJZUHoyOG53QVVpZ2pIS2RjalE5enZvaTVYQW1rSjFQcHYzS2Nub0FjY0lSUFJtTlJlVnNaYlJBcU9kYzhaZE9OcFpvTVJtWVJSSEp6UmdGdkdCcXBfVXlDR0I3Rklwemt6dzVOZVAyMEpNYnkxYjFzbjdSeUU?oc=5",
-      "source": "JD Supra",
-      "publishedAt": "2026-10-08T07:00:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from JD Supra on safety & standards in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
