@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T17:45:48.797292+00:00",
+  "updatedAt": "2026-11-08T17:56:56.549128+00:00",
   "demo": false,
   "articles": [
     {
@@ -514,51 +514,6 @@
       "publishedAt": "2026-10-10T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from Bioengineer.org on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "bbe52940888e0215",
-      "title": "How AI is raising healthcare cybersecurity risks – and how to fight back",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWpsZEE5TGNLZVVqcUhWMS1yb2ZjNWxjVWNkV09yb2RBak42UmtLTThNZEZnN0EwelgtdDlvR2U1YTNJOGFtUDMtMzBBUmdxU1ZSSkZNMi10OUNyTVRSdTI5akp2XzhQV09PWHNmTENaamc5bEhGNXBpa1RVeEQ4OVFET0JGZW8xZkp1d256MEpTNXIyRHg3dlI0TjRsRjVxUTRXMw?oc=5",
-      "source": "Healthcare IT News",
-      "publishedAt": "2026-10-09T16:39:44+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Healthcare IT News on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "6ca8e66b3fdf7c31",
-      "title": "Healthcare AI and gender bias",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96ZVAzUG9jY1cyZjdTLXR3WG5Qd25Ydm5vejlMdTlsZlZkTDVrblpoV1hNbVJiQzhaSVh3Y0lsU0NUWjhjSE5UbTV4eVh0YmRvcmxmaktmdXViVkZYTmFBZXhqU0pLSW9CQklYVlNVZzR0U2xDYXBjMA?oc=5",
-      "source": "Healthcare Leader",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Healthcare Leader on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "7dc1258be0f22b00",
-      "title": "AI, tech leaders lobby Trump health officials in a government-run chat room",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMm5XTnA2S1NZNXlfQVhIX2pwbURNZXUtNk43MkRrME41aXJGeWVvZDF4eWd5bi1pYS1MX0VmTnA4Zi1iOW1GQjMzb29iQ0ZSVHdXSmVUZG1WTEpEYUpZQ3hkdnE5VUpZS1hLRlpDR3hrUnFiTmFJWHRvdGsxWmpBaHlXSmFoYkdqU3kydFZ4VQ?oc=5",
-      "source": "Modern Healthcare",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Modern Healthcare on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "2e9535a3eb147fb8",
-      "title": "Geoffrey Hinton Urges FDA-Style AI Regulation, Admits He Was Slow To Recognise Risks - Brand Spur",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDdMTnpBRE1jUURaVnBUT1NrMzNzY1pTVm0tdlVIaEVFSlNEdngyRU1uTnJCMGtnWURabDlsTXdIeEI3YWVySTNIbmFNbDRMVk1fVThfOU85Znlaa0piT2ozNWhoVk9ISDlJU1JiZ2Y1M0MtdllYbWRMVnhPQ3dfZGdzM0FGS2t0SGNvRl9PQ2NkZWFHNUZrdmppajF1TzZkem5qN3E5TkhYWURneDUyempGSkdCRlVIM1g40gHAAUFVX3lxTE5GZXh0RGlsQjZjQzJiaEdRLTg5Z1J3NFl6ZllKNEh3ZHVqRERTTHNGdVpJMTY5ZU40VEZNVWlMMjgwLWR1RXVTVDdTUk03bHg3RGxMZFVsZ3pRVGJUM3lTUHFDSk5rS1o5MGhEN3ZsWWU3aTU2M29QVERwekFWS2pYX3JYa1pnbVRmNVE2aWxzellqUTY5WHVXb2VRTmFvOWZDTnMtNHlmVURPVnVqNWFBeGUycktzeFdfSzJHM2UzTw?oc=5",
-      "source": "Brand Spur",
-      "publishedAt": "2026-10-09T02:36:30+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Brand Spur on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "17b1fe61831d609d",
-      "title": "BIDMC Researchers Conduct First Real-World Study of Safety and Quality of Patient-Facing AI in Primary Care | Newswise",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOWk3Q0tzeVdIS0xmUlp1Q3lyZmJaRkQzdnc4NkozQ0lVcnl3WXo4TUR6NUxHLV91aWQ3dW1fTHQ4OXlTQXhhckk1SHUwQ3dHM3F5YkNHdHFudTNySnVoVnlZQWNsZ2JqX0FNXzU0cTZfZEt0MURDc3BnandxdEZEb21MR0RCV3NoV1ZZVV9XMXl6V0FkWmJkUkhoamhSblFnRzV4VjZHaU00NE0yRjBEc1N3MXVYd2dQeEhBcDQ2Rk8wMzVzVGt4TlhlbVpMSFZXM0szZENEZlLSAdgBQVVfeXFMTjlpN0NLc3lXSEtMZlJadUN5cmZiWkZEM3Z3ODZKM0NJVXJ5d1l6OE1EejVMRy1fdWlkN3VtX0x0ODl5U0F4YXJJNUh1MEN3RzNxeWJDR3RxbnUzckp1aFZ5WUFjbGdial9BTV81NHE2X2RLdDFEQ3NwZ2p3cXRGRG9tTEdEQldzaFdWWVVfVzF5eldBZFpiZFJIaGpoUm5RZ0c1eFY2R2lNNDRNMkYwRHNTdzF1WHdnUHhIQXA0NkZPMDM1c1RreE5YZW1aTEhWVzNLM2RDRGZS?oc=5",
-      "source": "Newswise",
-      "publishedAt": "2026-10-09T00:10:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Newswise on safety & standards in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
