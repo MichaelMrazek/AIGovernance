@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-08T17:56:56.549128+00:00",
+  "updatedAt": "2026-11-09T22:25:33.531175+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "00a8788b14cc3a02",
+      "title": "DataMEDS AI Announces Corexa Pharmacy's First Commercial Sale of Compounded Peptides Under FDA Enforcement Discretion Policy",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUGZ0U2IzLTZGRUMzYmtTRnhqdGJscGkwbDBFRWUwLUtPX19VMUN5V2xwOWoydXNxdGRkRko3VG1HZmlneFR5a1I5REEyNkJkTktYUzNid3pxZVJqLTVEZlVoblJpdUhNOXRDYWJJYS1TOFdOcDA1Yjl3Y3cxNzl1bjVpcVhEWGhBN1N3UWxjR2dsTktYOEU3QW94Wm1JVjFzOUNRVE4xV0pVSnVZMXFwdU5zM19paHZfamU3c2FZWUs3Qi01UnFjQWFXMkJVYXJva2F0Q3NoTEM5YkJlOXdZZUlWR3lLeTFpNzAzVnMyUzZWbkktNGVKMzlWa3Z6dVVqU09pUVRfX21GTzQ?oc=5",
+      "source": "The Detroit News",
+      "publishedAt": "2026-11-09T11:48:34+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from The Detroit News on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "3c4cfce3b731e4e3",
       "title": "Parental Trust in Artificial Intelligence and Pediatricians: A Cross-Sectional Study of Diagnostic Preferences and Healthcare-Seeking Behaviors in Saudi Arabia",
@@ -505,15 +514,6 @@
       "publishedAt": "2026-10-12T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from Healthcare IT News on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "c4da7710c4e95fca",
-      "title": "The Drafting Fiction: How Regulators Really Govern AI Scribes in Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORF82NDdMNFNvSTZWMDRJaXNZbW5wRUsyQUFPMFhtSG55WFhHeXVvd0t5cERQV1N2c1RoenBsbTgydGZYVHlJQ2xvUkZJNHVpdlJ3UFpSXzNiYk1IX2FzN2VOQUFmWUJHOVdqWDY4VlRxVktSX1dTLTlBNzZIbUlsajBoa0pXb1I5WHhxU1Q3M0QtMjZ3ZXB0cWVscFdLb21Z?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-10T07:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Bioengineer.org on privacy & data in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
