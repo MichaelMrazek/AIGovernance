@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-09T22:25:33.531175+00:00",
+  "updatedAt": "2026-11-10T19:46:52.168430+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "c50a52966f641bf8",
+      "title": "Using AI (Copilot) to Communicate Health Equity: Outcomes of an Undergraduate Nursing Assignment",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUU3OTEtb0Jld21tdC01WWpLMGk1WWp4c0ZzcGxlUFcxNWJBSU5hSlgzdkZhSy0zVnhfSnV4SUdSRl9lNklmM2dtM3VNYzRVbWdTclM2MXE2ZEdGRkZjbDRDVElNVmcyUWxuVlNBS1M0aVJJek1HazNBUm4zM21sWWltWVM3V3dkTkxRTQ?oc=5",
+      "source": "Queen's University",
+      "publishedAt": "2026-11-10T08:50:26+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Queen's University on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "ccb333114c447d0d",
+      "title": "AI Governance in Healthcare: WHO Principles & QA",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WGItaVgyYzBBVi1MaEVSZ0Z6RlhkR1VHdVFPZ0YtcFQ2ZXNNQjZmQUNqSjQ1VmJyTkFqWngtb251LXFHbFhqdlo4dGcwdUN2VnZCVklfWjNMWjBYX0EwQUQ5QQ?oc=5",
+      "source": "CASRAI",
+      "publishedAt": "2026-11-09T23:46:53+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from CASRAI on health equity in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "00a8788b14cc3a02",
       "title": "DataMEDS AI Announces Corexa Pharmacy's First Commercial Sale of Compounded Peptides Under FDA Enforcement Discretion Policy",
