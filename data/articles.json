@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-10T19:46:52.168430+00:00",
+  "updatedAt": "2026-11-11T19:38:32.462299+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "5ff9dc685e4155c5",
+      "title": "Review Finds Only 13 Percent of AI Health Equity Studies Define Equity",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2ljTmdCQzN0aC1FM003SjZpal81bGdWX1Z2bDZJTDdydjdiTVFMMVFCLVlVdDJwN3FPek9BM1I4V3pBVW9mQ3RBLTFTelJ5TmkxMzduWnRpQzRkNGpfNzJrcGRsc0VJNmUyQVNsT0hBWkRNYWJRYkNlclZaN3R5WFBLQS1XdzBfdldub0RtREEzUHNiQU5PbTVOUQ?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-11T05:05:28+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Bioengineer.org on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "c02fbd313b81be91",
+      "title": "Digital Health and AI: Key Regulatory, Reimbursement and Policy Developments",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRGpmWmlpNE9vYW1wX0VJUmFYWFpXb195UndHeUMyOUp0N3ZiM2JoNHl5ampPbk1adlNCTkVYX0tlVTNQYW9pTWFxQUdGTkxsT01uU0FKdHFWV1BlOHdTN1JOYUdkZS12WHRJN3FNQUpueWJUOE5ERUYwNDA5d25aWmZKMVVTdw?oc=5",
+      "source": "JD Supra",
+      "publishedAt": "2026-11-11T03:19:09+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from JD Supra on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "e04982adfaaf3f57",
+      "title": "The AI Race is Putting Patients at Risk",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYU1EVkh0azdUZGpyZU1sZUhxS3M3TExpcDExTmcxS1NpQkFUMzVPdDRJczkzYmtlZTVKR0RZZVBqVC1MR050clpEXzJiNEg3MXVkTEMxMXBtRksxNkJNdlBUbHpmUk9XX0lOTFZ5cGVCZzc1THpDbE9vaVhQNXRlUGJ5M0R6VE5yUVpOQ0NQc1A?oc=5",
+      "source": "Progressive.org",
+      "publishedAt": "2026-11-11T00:02:52+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Progressive.org on safety & standards in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "c50a52966f641bf8",
       "title": "Using AI (Copilot) to Communicate Health Equity: Outcomes of an Undergraduate Nursing Assignment",
@@ -17,8 +44,8 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WGItaVgyYzBBVi1MaEVSZ0Z6RlhkR1VHdVFPZ0YtcFQ2ZXNNQjZmQUNqSjQ1VmJyTkFqWngtb251LXFHbFhqdlo4dGcwdUN2VnZCVklfWjNMWjBYX0EwQUQ5QQ?oc=5",
       "source": "CASRAI",
       "publishedAt": "2026-11-09T23:46:53+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from CASRAI on health equity in health AI. Follow the source link for the full story and context."
+      "topic": "Privacy & data",
+      "description": "Reporting from CASRAI on privacy & data in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "00a8788b14cc3a02",
@@ -523,15 +550,6 @@
       "publishedAt": "2026-10-13T20:11:43+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Governing on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "478c0b36da61a452",
-      "title": "Utah pursues governmental validation of healthcare AI tools",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWc1T2xmeTNXb25IWGcxOWNFTWR4Y2czem9LYlhYTjlyY3NxZlltbVE5R0dmSTFueFdzQkEyOGdsaW5fUlM5SjRiUWJ0S0dheTJMY2Y0Z3ZmYWVGVHphMmQyNE1ybUtSMDN4Smp2VWJGVGhsT2tEZjJ2UzczZS1MUGw4bUtuSVV4VGlsaE5ZQUluS3RKQ3Q1Qml3?oc=5",
-      "source": "Healthcare IT News",
-      "publishedAt": "2026-10-12T07:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Healthcare IT News on privacy & data in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
