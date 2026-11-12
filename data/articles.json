@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-11T19:38:32.462299+00:00",
+  "updatedAt": "2026-11-12T19:57:51.642923+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "278c65498612970c",
+      "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3hXd1F3VnVfUTB4cl8yZ1VoMy1VWDVBU1gzUUh2M3JxNnJRQzI2ZmF2YUc2Yk1qa1ZpYWxicnRQZU02OEFYRUxjN0g5MXhEVXFUYWY2QV9wTFNVbnhXVUpEQ0o2OV9fX1VIcFo5RUdVbUdOeDFsSXotTWFoYUFtX3hySXQ0b1FsYjlYSEtxWUdoVVdTcXVHWDk0UXlWWGQ2dkswWlp2b1BDTDdlLTZQelAwLWx2SUZRVXZhUmo1YWtIY3dyMVM1SWpVU3pKa2xZNlk3bk03YjlkMU40bkp4VFVvVEJGUQ?oc=5",
+      "source": "The Pew Charitable Trusts",
+      "publishedAt": "2026-11-12T14:59:26+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from The Pew Charitable Trusts on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "5ff9dc685e4155c5",
       "title": "Review Finds Only 13 Percent of AI Health Equity Studies Define Equity",
@@ -235,6 +244,15 @@
       "publishedAt": "2026-10-28T20:36:17+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from JD Supra on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "1a2bf2edb51e9725",
+      "title": "Recommended guidelines concerning artificial intelligence and health equity: a scoping review",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYm9tTnBrX28yMlRrV3ZJZ01aaUxQLUw0Yk1tUXdhdzg5LTVvcFdsZG42ZzFFTko4ZkJBcFVRd1RDNEpxWWxKUk5pN3NFTjFINk00SmFzaVJaNG4xUGphRUY2NFdVVFllMnhNQkUtNnlENURfckhxTjdmUkhnRTRIVmVfeTV5Ylo0MmhQYldnVTZWM3V5dnBPUWxvT2xaOGtBcDk5b3R4WlBvbVI4ckZCZFpQSzVvN3JDbUk4NzFkcw?oc=5",
+      "source": "RamaOnHealthcare",
+      "publishedAt": "2026-10-27T20:39:42+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from RamaOnHealthcare on health equity in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "27da9cd477b8fe50",
