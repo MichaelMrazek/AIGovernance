@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-12T19:57:51.642923+00:00",
+  "updatedAt": "2026-11-13T19:45:39.033781+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "a6ece7fef3faa9af",
+      "title": "Patient comfort with AI’s clinical decisions tied to provider oversight: Gallup",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFp5RE1tZXFuaWdua043c2M2VzdDd0tqT21rcmtFcDQwU0gwaVVQa09VcV94dUZVOGhmaTBpTU12U2dTZU0yXzBuOVlkZy1teTFWV3FhZGY2S1VTNElSOTdJSjAxTzJIdG5FNk0zMkE5RFNjQzdmRkthLTY3S3VXSUhPRjgxekFaZzF5aGhNOGdjZ1pENl8wdXMtUXlkMGJ0Sm5wWkVoemRLUTlKVVRwaHB6RFRuUVg3?oc=5",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-11-13T16:30:41+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Healthcare Dive on privacy & data in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "278c65498612970c",
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
@@ -10,6 +19,15 @@
       "publishedAt": "2026-11-12T14:59:26+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from The Pew Charitable Trusts on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "d0da895a1b250a2d",
+      "title": "FDA Finalizes Class II Status For AI Pap Slide Tool, Dementia-Risk Software, Two Vibration Devices",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYldUbHFMV2VLdVRZblZ1STZXMWt6RVNVTmdGX1FhaVFuVG1KUVBpendGQzBzYU9OSWJWcHVnYjhFT2p0WEh0RW0zTXFubDNPVUNkQkgyMVVMaTdzeDZfYTBmRk1iYlpEUGI0bm5vcjdBbjMzVVBkby16YlN6ekJWb0hLd0VNampoMHQ4eW9kb0FhZWV0Q2NJeVNyZlpTdDZBMzgzUnlpeVE4dk9qRlN3aW5QcXBEdFdBUXZHU1BiRjJPVV81elZwLXRVNTJkQ3ZleUhKWUtrbmtrOEp4b3pTRUJ1YzlUbWVzbUtJaVBhcXZoZFFiTHF2NElFMlR5c05hQnU5UFM4eDdfTXZqVENHcERIME1VY3gyYTB3QTNpbk85OUFTNUtMQ1lB?oc=5",
+      "source": "Medtech Insight",
+      "publishedAt": "2026-11-12T14:52:36+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Medtech Insight on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "5ff9dc685e4155c5",
@@ -37,6 +55,15 @@
       "publishedAt": "2026-11-11T00:02:52+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from Progressive.org on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "bfbb0d7d28df1aa5",
+      "title": "AWS pledges $100M in cloud, AI credits to close health equity gaps",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0UtOG9JWUktRzZ5dFpwUjk2MGJ6S0ltUHZxSERvWkpuYXVlNVVZRHpIbEhJenowWG1uMHh3aGtrMnhuVi0teWg2VWRycmdockNNZUcyZEdjR3pRY3VHZnNMOVZJcmU4RmotTjZNWWV4UzN2b3BxcVc5dU5Pcy1pTlVncVh0TWsyaGtUR3hKdE5QX1pMNHNuUk9n?oc=5",
+      "source": "RamaOnHealthcare",
+      "publishedAt": "2026-11-10T14:18:25+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from RamaOnHealthcare on health equity in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "c50a52966f641bf8",
@@ -532,42 +559,6 @@
       "publishedAt": "2026-10-14T20:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from Healthcare IT News on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "529945a994adeb2b",
-      "title": "AI, tech leaders are lobbying Trump health officials in a government-run chat room",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlhKc1ZCTXJJaG11alVIamxabWM3Z1RiRVRaY2JXSEZUSHdnb3pfcnVpWjAxNFQxdkJxWWU1OGtFejEydU5zUmVZM2pOeXY2STBBU2FVWDdqYzlWX1djV0tRay1tN2pSazBYNk5XeU02N252c0NLN05CZlN0Mm9iOGRVZ0hiRzFCQ1MwcDlkWlZoZzBROU5YcmtfdWZ0Qi04VEJzcGlGUnV0Xzd5VmR5U21nTnBaNWp3dnNmTmlwc0dSVEdPbXFn?oc=5",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14T14:00:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Fierce Healthcare on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "5ed11ae57d74ca06",
-      "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE1IbGpvU1dxQWk5dzNSRVBfckN6djhPR0lXQ3BhSml1cWRaNV9LVTgtZko4cWtjZk9NX3lhNG1ibnNNY0lqNmtvVFRrTHhRVUF6VmpwVmN6UVZmX1dYS2JNYUR2U3EyR0VYYjVpUENBeFRlM3dRVG5jN050UzdheXZqM3l0UkYxUlNCWi1XZjljc0JCbDhsZ0wwd1o2b0V4Q0xOVVZ3?oc=5",
-      "source": "STAT",
-      "publishedAt": "2026-10-14T08:36:35+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from STAT on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "96999caac3c3f134",
-      "title": "News 12 Investigates: AI’s promise in healthcare raises questions about patient privacy",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDlOaU1mTk1FcFJ1QzM4ZURuZHBWbm1uaXBheGVwVlBFSzdNaUp1WDYzT1Y1VkJ3TmJPMEJHN2w1QUxGcndLZi0yWnhXZ0VmdldSR2U2azhxQWZfMVB2a2VBSHpZbHRXcGI2Ukdzd2MyS3plUWNkTEVWbEtyUGJsRzNNakItMXhFd09obXRMN01Qckx1d2FVSGhhZHI5NW9CdWkxMGRZMDd5OWVWR0trLVJtZGwzM2I2NnZvRWU0VmJuSU9FZEdVZ0Mzdw?oc=5",
-      "source": "WCTI",
-      "publishedAt": "2026-10-13T23:12:44+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from WCTI on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "4c62f3c157fa5c3a",
-      "title": "California Bans AI From Making Medical Decisions on Its Own",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdTBsVXV4MUJHZkZReFpJUnlPdzZtLWEtUnRVTllRMzVYaG80ajBNQmR3WlFVaXhaOEUtWEpHbHkxWTZvVDlfb0ZxZEZMQWV1RXBoa1ZoUnkxX3JuR1dLNjFObkNXTmhaNWhqcVZtR0F2X1FEZk90MFRfNGEzS05PQUFvV0JZZG91eUM5RGRWenF5THkxSDdrUWx1aG56TEtBLVRidzhxZWdNT0lnR2c?oc=5",
-      "source": "Governing",
-      "publishedAt": "2026-10-13T20:11:43+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Governing on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
