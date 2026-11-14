@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:45:39.033781+00:00",
+  "updatedAt": "2026-11-14T18:08:55.203251+00:00",
   "demo": false,
   "articles": [
     {
@@ -541,24 +541,6 @@
       "publishedAt": "2026-10-16T13:20:40+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from HealthExec on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "22445d5cf568d657",
-      "title": "WHO highlights responsible AI governance as a public health priority at RC73",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSm5DUkhVbkRFZmNEeVhEX3JiaEdrSEZwcnBuRlVncTh2TV9IbDdVZkVsc2lCS2NPMFl0Qnc4OURTNzQ0di04TnRMVW9aUXppek50S3BRM0ZtOW5CZzZKdzhPaU5QSGNiWFFwOUExX2pLcUYwN1gtT3J6V0U0cGxEUjA0dTV5SHg3OHF1dHVIX0Y3cE1iY0tNUFhBZGZiUVhxZHFJWWxVbWVIZjNJOFZ5dlR3QmdCdmhT?oc=5",
-      "source": "World Health Organization (WHO)",
-      "publishedAt": "2026-10-15T09:33:56+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from World Health Organization (WHO) on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "9b6ecb056b0ddd00",
-      "title": "(Sponsored) How data privacy shapes healthcare AI vendor selection",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3VWU0lmQ1htRVFtRkN6YjdXUDhSbU1mYkZJU3g4U01DbjFXYjNiNWlVbjhLNjZLdnNrdU52MkgxZ0JBRHpUbWpQQmx2OXNoVDREeGMtWm1rTmdTTEZuV2VEb1RoekdaVmZBeXNTWGhBX3JLTkxDOEpfbll0SjBRU0otVjV2SkJ2a25ZNk9MMHU0SVEwX2tfUlZ4a1lXaWtsTUhJQTM4dllacUx1?oc=5",
-      "source": "Healthcare IT News",
-      "publishedAt": "2026-10-14T20:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Healthcare IT News on privacy & data in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
