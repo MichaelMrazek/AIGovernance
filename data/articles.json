@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:08:55.203251+00:00",
+  "updatedAt": "2026-11-15T18:53:29.977392+00:00",
   "demo": false,
   "articles": [
     {
@@ -82,6 +82,15 @@
       "publishedAt": "2026-11-09T23:46:53+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from CASRAI on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "9d162fc4c85bc5a7",
+      "title": "FDA Artificial Intelligence Regulation: AI/ML Medical Devices, Pathways, and GMLP",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tam1YcTFGYi1hM0xVY2FFZ0tjSVJnRjNLb1Y0M0lxblhJTWdXOG1obDc1QVlza2JsTkVXMVdBcG5VaVdESGppWE1PdFhLOFJ4cV92U2FnaTltbjU1akRTVVVvaw?oc=5",
+      "source": "CASRAI",
+      "publishedAt": "2026-11-09T22:01:13+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from CASRAI on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "00a8788b14cc3a02",
@@ -532,15 +541,6 @@
       "publishedAt": "2026-10-17T05:51:15+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "7030808d8ccd73e0",
-      "title": "FDA balances faster AI adoption with safety as healthcare technology advances",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3pQQ2tUSm5WR0tRN0k1eXNDdTFXcVhhRzFZRUp0SGh6ekZwNUlkcC1fY3dwaVZ5OXFKQlB4Y2p2aWdLUGVyYVQwNjB2dExuY2JfWDc5MXN3Z3NJQWNHTlhHandUNktvR3hfWEc1ZDRrOVlkTnc2bW8xVWp3bHdoTF91ckJLQzE3dmhneEFKWDJWWGtGYlBfNThzNXhnTVVSTk5aY1Y2UHRlMDBpcXAtbV9EcWdZZUVwY3JBdnRSZzE?oc=5",
-      "source": "HealthExec",
-      "publishedAt": "2026-10-16T13:20:40+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from HealthExec on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
