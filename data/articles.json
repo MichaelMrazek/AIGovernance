@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:53:29.977392+00:00",
+  "updatedAt": "2026-11-16T22:09:09.266867+00:00",
   "demo": false,
   "articles": [
     {
@@ -523,24 +523,6 @@
       "publishedAt": "2026-10-18T07:00:00+00:00",
       "topic": "Health equity",
       "description": "Reporting from Bioengineer.org on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "d06797e338b04a03",
-      "title": "A scoping review of bias in large AI models for medicine and healthcare",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hcW1LLVJsZElBWGJQV0ZEN1MwdUdNQk5lMi1PSTVpd2R6a0FYanhsMDBFY1FKZEF2ckRoRER0S05XVlJ4bU5fdzh4VDBLeVo0VUJNdm9GME9KOGFaMVg4?oc=5",
-      "source": "Nature",
-      "publishedAt": "2026-10-17T10:18:23+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Nature on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "ea337994462f935e",
-      "title": "Hospitals Are Deploying AI Faster Than Regulators Can Keep Up, Landmark Review Warns",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkF4S2hPeGFLaUpWYUxaVlVvanltUWh3aEMtSlFYZm94N29NYmV4Wk9WWTF3Ukl1NVFOdFQxMVl2c2FpMk9Fb2xnMmRKWHAzZnk4UUptT3RwSXgxR2gzVmV1ei1DM3dsaTZ5cVVYQ3BmazZla2gtMkt4R0oyWVNOWnY0bXZaR3F0RUdYdVFyZkFfRDRxdzF2cldfc2xnV1VzLWJydkNsd0ZxOWo0?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-17T05:51:15+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
