@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-16T22:09:09.266867+00:00",
+  "updatedAt": "2026-11-17T20:58:18.808191+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "df490bf0fdb9a8f0",
+      "title": "Smarter healthcare, unequal outcomes? The risks of AI in southern Africa",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXJ2eWNmanhZUklOMU91QV9HcG1uNWE2ME5EMWZGNFpyb3Vpb3R6QUNFRmJTZXY0YjY3c2lpNklTdjRRdzBMSVBfR3h5LUNTaEUzczFMQ1dUV0dmcHNrVndNeDBCZnREQnhnR0xVcERYNjFGZm96WEc0OWRvYUlpUWlBdVI2bExRM01od3dZWllDcWdVbVJrYU12TEJGOGQzaGg0OWRPSjk?oc=5",
+      "source": "The Conversation",
+      "publishedAt": "2026-11-17T14:48:54+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from The Conversation on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "7bdca6a929c01052",
+      "title": "FDA Launches Super Intelligence Hub, Details AI Governance and Internal Modernization Efforts",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGM2b3A0MmY3NWRCd0lLLV93S0h3Z0lCLVNtUDB5bUpLQnlGM1RJZk9UZ2lQek1lUTBoMVdvYnJGeEE4ZWRoZFFtZjh0Qlo3NURJZVVwYjFRUHpYVjNwcmFJTnVIb3RVNXF0MXZfMVFTaEZGOVhCcDh2YUZpVG0wLXFmY0xPU0NsQ3c1c085SjRQUS1CWkllWjQtWkNWaWpUWWI1YlRWWFJMNUJjYXJmZUxSU3dPRzRQ?oc=5",
+      "source": "OrangeSlices AI",
+      "publishedAt": "2026-11-17T03:26:42+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from OrangeSlices AI on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "a6ece7fef3faa9af",
       "title": "Patient comfort with AI’s clinical decisions tied to provider oversight: Gallup",
@@ -514,15 +532,6 @@
       "publishedAt": "2026-10-19T07:00:00+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from InSight+ on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "01083bce824bb4f2",
-      "title": "The Hidden Bias in AI Healthcare May Come From Clinicians, Not Algorithms",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1d1cGltenp6TzJkd2tkcXMwME55U0FpMWhmemc3VVBJT21qS0xZbzBLQjZtUGgxYkIyMmRUM3h4X0J2NDNaS3ZHS0R4UnE0aWw1NU9ZMWhrYm9WbUlFYno3cm1ya1h0U0JuRGRhMWRFMzEtczhGc2psdHZCVjcxS0U0ck1jazlIZEplczJrVlMtRXVlcHg3ck0wWkJtQQ?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-18T07:00:00+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Bioengineer.org on health equity in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
