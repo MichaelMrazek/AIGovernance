@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-17T20:58:18.808191+00:00",
+  "updatedAt": "2026-11-18T20:36:09.932860+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "afac8fc4d81adb47",
+      "title": "How FDA’s Human Foods Program Is Using AI to Support Food Safety Oversight",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHhha2NwNHlCODRxOGFQeE5iYVZ4d3M1WFdKcmpEOFJRVlhyWk02UEF6R2FOMnd0UEdFTWFjOU5lNzAzWlJxdmgxazVSRDZydWpvUWoxb2ZqOUhjVzdXSzlObFJ3ZGJod2Z2NHg4WWdNcDFEdktSMlpzVzVabFl2VGNuNFlZNkJfUUhDc3lOWnBYUGtSTDhveWtpVWVqOV9vdnhiTVRaMTlVWll3cGVHUkVkbmZCblU?oc=5",
+      "source": "Food Safety Magazine",
+      "publishedAt": "2026-11-18T12:57:03+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Food Safety Magazine on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "3fa7a6b233471304",
+      "title": "Perspective Argues Narrative Medicine Counterweights Algorithmic Automation Bias in Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkdJeHNVdjU1M1ZsRUdFR3lNSmt3N3ZraThaYkVqZEJmUEE4NzVOamdnZ1RFajdrcFRxemJqSlVmOTZUa1RIZFg0OGpYWGpJVEd6UklucVg3aXVXa2s0U1U1T2ljXy16TmdJbXlGaEoyQlpSR2lPRm5lc2NYQWFaTWhMQzhmQ2pjTlNRdFdJLVRqR3R1aWFXM1k0cDd2SzNXcjEyWXhWeEw1Wm5FTnlMZzJRVWhBV2JNTDRB?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-18T03:21:18+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Bioengineer.org on health equity in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "df490bf0fdb9a8f0",
       "title": "Smarter healthcare, unequal outcomes? The risks of AI in southern Africa",
@@ -487,51 +505,6 @@
       "publishedAt": "2026-10-20T04:32:26+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from Florida Hospital News and Healthcare Report on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "037d74199b21ca5e",
-      "title": "Who Will Regulate The AI Doctors Use? The FDA And The States Disagree",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWkzZWdEZVAwa1pVVXpWNGE3Y25kYmlqY3pRUmNjODFHMnFVSHkwVjhJcF8zc2NxWkc5LVlfS09peVM4YXE5UkE2OWRkMlNJQnpOUy04dEJzMEY3b3FFWkhNdDVVcGc3cTdWMHNHdDNuRVNIZFZNSEdZU1VGRFl0SHlSNWRSbVkwQV9ocXBzOUtJUmw5R2dHN0NVekFYTzR6LUpiZjFta0R6S19KM2lIeDNTbkxRbHJIMEJhWg?oc=5",
-      "source": "Forbes",
-      "publishedAt": "2026-10-19T10:30:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Forbes on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "5e5b1ddf1b635741",
-      "title": "FDA clears AI tool for assessing breast cancer recurrence risk via MRI",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc080YXBJLVVZUG91eHVTT3ZvdXNSaWIyNkt6YlRmVENKbHgwZU1EWjhSVjVGR2hLSy1wQVdWVEhIY2tXLXNXUC1NRTR5b0ZoeHNqSFdBazE4OGdfOHBJWkxEUEZOa3pLdEZJNTNnNG45aWlFNWlGa092NFg1S3FXaTJNb3JQdkZaMVJGZWRXY2lxZTBSd1pnY2pzYlhjTDBPQmtDZVMzZS01bU11OEtmVExwdXdnOURDdS1mMmUxVVI?oc=5",
-      "source": "Radiology Business",
-      "publishedAt": "2026-10-19T10:07:01+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Radiology Business on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "6378c7023132f297",
-      "title": "Healthcare AI Governance Market Size, Share & Growth [2034]",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVZueG5IMVY4NWtOaVhjeENSaGZHbkRuS1pZdllVSlhXM2lfZFZSd3hvN3FVVVBfOUFhaXdsOGExNTFoSkE5VWw1ZU9BLU1NWjBzbWd2WlpGY255ZjNqTHEwdE9nVkk5a2FDMklZcGpybmVtbXRvbzU0RUJxNDYyR2ZndU4?oc=5",
-      "source": "Fortune Business Insights",
-      "publishedAt": "2026-10-19T07:00:00+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from Fortune Business Insights on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "0e56d45430175860",
-      "title": "Trump’s Medicare AI Push Raises Patient Data Privacy Concerns",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXctVXNwdWZJYXYyakRLb19MTUV2OHNJb21ZSW05eV9nLXdSQm5ZMjBNRENoSmZha2Q3eEhOSkpWR0I4OWFPeHVDR1ZPcGg1UjNLYmp1c043UGZSM0R6SnNmRDRsYVNTS2Fpd0JZR1dZSzZjaTc2R0d6UmVYenplQVlWeTFSMXV1cXN3NVFLR3FyNlk4SzJQZENjMUdnYk53YmhlTl9iWF93TUxBY3ZOakJZMmI?oc=5",
-      "source": "Bloomberg Law News",
-      "publishedAt": "2026-10-19T07:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Bloomberg Law News on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "2230a5788ec8ae7f",
-      "title": "AI in healthcare: Ethical Challenges and Responsibilities for Doctors",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3Qwc2FxOWJqZW5Sa1ZGUTVMOFRXNVp0QVZXcWVrOFRBbmVxamZGZ25vNWZwbjR5a1NLRWdSVzd1aEtlTjZJSHhKWV90b2hsRWxiMmpuLW5UUkRzM2haMlNTdHNvanhnU09YR0pKTmJ2WVJRVjE2VVJRU3ozWWtpVUdPcDhaYTQ?oc=5",
-      "source": "InSight+",
-      "publishedAt": "2026-10-19T07:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from InSight+ on privacy & data in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
