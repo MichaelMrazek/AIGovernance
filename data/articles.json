@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-18T20:36:09.932860+00:00",
+  "updatedAt": "2026-11-19T20:41:43.965161+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "43adabe51dae2cb0",
+      "title": "Utah lets AI renew—and in one pilot write—prescriptions, but federal FDA oversight remains unanswered",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmVqbVBvLWlqdElzY1BPNG9LUHhxSU9Ub01BeDRibzRadmZDN2huYTh0eGd1RURZVjhxYktIOEUtek02UGRaSEdoRFhpY1hkV3dUOVZxbFdGcVRhSUxkbkRPbU1QT0FlTk9MWHFGU0VSdC1MYVQyVW5jSnlnd2RjXzlyUUNZQzlU?oc=5",
+      "source": "Medical Daily",
+      "publishedAt": "2026-11-19T05:54:44+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Medical Daily on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "afac8fc4d81adb47",
       "title": "How FDA’s Human Foods Program Is Using AI to Support Food Safety Oversight",
@@ -10,6 +19,15 @@
       "publishedAt": "2026-11-18T12:57:03+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Food Safety Magazine on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "fecd4fefd7e88712",
+      "title": "The proposed reform of the Medical Device Regulation and its implications for AI-enabled medical devices in the EU",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wZmVKUThyVGdvcm1LNjd4Y0oyTm9wQ29ZTElLdGhXSENfMGQyUWxRTjNhWDNHV1B5VmNJNlZRcVFaeXpzMkJPQlhXYkZlSzdZV1ZEcVpyX241XzZIQldn?oc=5",
+      "source": "Nature",
+      "publishedAt": "2026-11-18T10:10:52+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Nature on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "3fa7a6b233471304",
@@ -309,6 +327,15 @@
       "description": "Reporting from The Des Moines Register on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "c55dfdfa6066bf6a",
+      "title": "Equity within the Chilean health system in the age of artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNXVMTjRCYkVQNjFXMzg4MG5MS01udmJNbF9YcENsVldrbDE0alRjNHI4NVRmcnFGMVBEbTV0bnhkY1h0ZXNTY2NyV1JhcWl2T2ZWUzZxeG1UbnBqUEZmM0FCREV5R2VrV2hKTHBiNkhWbURwWnF6bFJLV2ZheFBPd2k0NnRSZ0dHLXhqQWllZE92el9yTDd3?oc=5",
+      "source": "Frontiers",
+      "publishedAt": "2026-10-29T17:36:45+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Frontiers on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "45129a4f252d57e9",
       "title": "Snapshot for Healthcare Employers: What AI Glasses Mean for Patient Privacy and Recording Consent",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGlROFV2ejdGRGR3X3lzS25XR3VuanpFYmVGQVRjOEZlbjloR2VKZHRYLTNDdEpBZnFqVUpqZ0t0RUp5ZkQzdFc3MTVOdnlidVVCQUtwZlNFMldvWHUtVDRrUE5LYWtFcy14S216cXZxTE5iYjd5SnVzUlhyNzE3SHBNQTJaQ21w?oc=5",
@@ -460,51 +487,6 @@
       "publishedAt": "2026-10-21T04:53:51+00:00",
       "topic": "Health equity",
       "description": "Reporting from MLex on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "81c07e563824f554",
-      "title": "Virtual summit addresses artificial intelligence and racial bias in health care",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFVIcjJpZU1MNUlUcndhVXFrbm8tLWFKdF9WVU9tSnZOTFVuQy1fMENVUUtsRUY2WnFHcmRHQW1zclE1MjlRZ0E5Uy01c2ZiN05LQTctQ2gxY2RVM2JGY3c1dmE4Vl9DR0plUzFhenJWYjQ1UWlLTzlmYVp4SHI2eGhFcVdVMEsxX0hEbmpZb0ZVYlZIdEZVLVl6T2l2eHBKSWp3?oc=5",
-      "source": "cedarnews.net",
-      "publishedAt": "2026-10-20T17:35:31+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from cedarnews.net on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "ab10ab3a0ec31d69",
-      "title": "AI Is Flooding Drug Discovery With Candidates. Clinical Validation Has No Flood Gates.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDZrVlVlUy1FeE40TEJFQzd4LXBjWEt5eVhUS2RCZU9wUndVdHFRaDFtVHNDMXBWRjRObHFLSjROSy1HR0Z6eTJTR1BFUzJMX2hsTFNuRkFhd3I3VXE0UVN5eG5vVjViN3pLcEhpY2ZJYXZhLU5FaHBjVTRQQW1NZi1kVDNqNmgxQW1ydzBZZ1JQN2hhRzJVeF9sVWFXVzZHaHd4clEwT3lqSVUwcTZUaDExbkJQUTc5eHRfa3pDam5BTTJqbW8xZXM2cHlsUy1vT2IyMTB3RUUwamc?oc=5",
-      "source": "The Clinical Trial Vanguard",
-      "publishedAt": "2026-10-20T13:00:24+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from The Clinical Trial Vanguard on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "2a869847fdbde491",
-      "title": "CMS AI Healthcare Initiative: Tech Industry Access Raises Privacy, Transparency Concerns",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1lpb25pVUhzQmUzRHZ1bUVvVmhWYmlfWW5KLUdHRU1rVi12dklieUdPYThDTzZYc29NeHBGdENTZkxVMU5JajZJQnh4WEF6bVZTOThGdlI2RFBHSkVSMGprVVpUbGQ4LXVIZ29lOGY1bTFfejQxQkFwMFJXekRDOW5kTFRaWWszOVRRVHlJdlBoZXR2M3FnYVBzdVQyVDUzakFYTmhMMGNFSTRWVV90SEZnYnpNdw?oc=5",
-      "source": "Telehealth.org",
-      "publishedAt": "2026-10-20T08:00:00+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Telehealth.org on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "b4c24a6d76a5b120",
-      "title": "AstraZeneca and Oracle Outline AI Collaboration for Clinical Trial Recruitment and Safety Monitoring",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcExpNWlqaUl0MXpEM2lkNnQ5bDZsUm9oLTBxbzZKcHVydGd4RW9kai05bTgtQU84VUtzaVA2SDR1dVNzOWZVTk1BZ0dQcEpUVWlpNV9Ldkk1QWE2TmdaTi1DbFY0ZWx6blhGVEJiY2dIU21sOFN0WHUwNW9PdDlKX2ZpQjZ4Sy1MZzhaaElGLWI5VWFSSllQOW5JU3VEZFR2YzRSbWVYTlBBVHhOYnhHU3diVlA3ZElDemJIb0l6T2xlamZPZ1oxbQ?oc=5",
-      "source": "Applied Clinical Trials Online",
-      "publishedAt": "2026-10-20T07:00:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Applied Clinical Trials Online on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "49fecd23d7aae609",
-      "title": "AMA Outlines Path Forward for FDA Oversight of Generative AI in Medicine",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTQ2QlpWS0JURGFCdUZJeEI3Q3NHOVAySTBRcWZVTGtkNmxqa2QyVGlfWDJvWm8xb1hrUVVIbEJRLUtrZjhCODNadmppaXhrUUt6N3M2MEhwblJVQmZ3UFJ0c0tfQjhwVXVxZk9hZ25Ia3VUbDNJZnJlUUR0dWJoTWlpaTF6b1R2N0hBaGZaVUowT2ZoZVlHTVoxU09yVFQ0eXRLd2d2dlhlWXFPbHYycEpsbHg1VmtwVm9EZEdR?oc=5",
-      "source": "Florida Hospital News and Healthcare Report",
-      "publishedAt": "2026-10-20T04:32:26+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from Florida Hospital News and Healthcare Report on safety & standards in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
