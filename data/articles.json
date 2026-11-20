@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:41:43.965161+00:00",
+  "updatedAt": "2026-11-20T20:25:38.202223+00:00",
   "demo": false,
   "articles": [
     {
@@ -19,6 +19,15 @@
       "publishedAt": "2026-11-18T12:57:03+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Food Safety Magazine on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "330f6b0d26367885",
+      "title": "Part 3: Building Responsible Healthcare AI: Guidance For Developers",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcXdpV0JrZm94ZkNWX19lbWVCbnctNXhtM1I0UEgybjYyd0JSX3YtdjFPMEt6THhuMVpNckdQdnVkOVlhY1FPUkduQ0ZYTGFnNVd6d2FWa0NNWTctZy1CNUF0NGVmTE5rbENteXVJSEJTRGxxaDYwTURvUXprN25XNW1PWVloYlM4Smp2NV80anNadVRuUnV4Qzl0QUlRMGc3dzZFY0hxcFNxWTZIMTQ4aVNDcXk3QV9fWDNxcWw5MTRyRGdRSmVPOUFmdzFjU0dzRXFkMkppaUxvQUdoakFz?oc=5",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-18T10:23:56+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Legal 500 on privacy & data in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "fecd4fefd7e88712",
@@ -442,51 +451,6 @@
       "publishedAt": "2026-10-21T23:47:03+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Crowell & Moring LLP on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "984436834daf3741",
-      "title": "AMA calls for risk-based FDA oversight of generative AI medical devices",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wLXI4aW5Gb3d0RUlfVmg5UzBKd0dpYWhPZlhMaHZFaWw0dW1MQUdzSUhySDJRUnFia3lkQ3NmYlNJMEhDX25OMGM1UFQteHRi?oc=5",
-      "source": "DOTmed",
-      "publishedAt": "2026-10-21T13:49:26+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from DOTmed on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "eed7dc4ccbf1b55c",
-      "title": "AI-enabled medical devices require an integrated FDA and IP strategy following draft guidance on pre-market submissions",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWFFFcWt1NHB4R01qc19IRkU4WGdQbG9mQzhmUUVhVG1CUHlNSUpJNURiUXppblRMYUd4dnAzRHk2aWNxSVg3cDZPVml3V2h0dC1QSG1ra05pbXUxVGZCQ3Z3b0RuWEVQVndobUd5WDZGMUFQTjY5X0ZSWm1VQXJreGNHaVhaTzh3ZUg0YVV5Q0hha04zUVo2WW9KMEV3VldFYVF5WHZYckU4U2k4VzFreVlHcWxwQjVEVDByMUtxZ3pHV2NJRDBaWk5MZ0FhVnItWU41VjdVQ2FPSTJBalVwZg?oc=5",
-      "source": "IAM Media",
-      "publishedAt": "2026-10-21T12:51:52+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from IAM Media on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "7c628607add92d9b",
-      "title": "FG moves to regulate AI use in healthcare, protect patients’ data",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0lJVjE3T0ZHWHVWT0Z6WE1OMGc0ci13V2NkNGNNbmZYX2RsWUdRWFZfdElHRHAzNm1qcmRpcmZQY2JrUGJ6WmlFaEp1NE1LVm9vVmJqSW9lU3lPZ1dxTHQ0RlplNnB5bjNxeTJqYXRRMWhSend5Q042OVktSlIxNHZHT091T0E0czd4azA5Mzg3VVZGUjdF0gGcAUFVX3lxTFB4V3FOR1h3UVpkSVByVUp1aGRrQjdnQ244UXB5a29YNTl6dkN4SksybVZOZ3hCTFZpcmhDaXR2LXlNVmp5VGFWNUFlMFpidlBhcEo0SnpUVUZxaUVHeldsMkR3NTlHNFpwTHpPV21RdnNpcGU5cTFkQnNLVDdmdl9iU1RIb2Z1MVd0QnFNbjZPekRBbVlBUFZrd2VBXw?oc=5",
-      "source": "Tribune Online",
-      "publishedAt": "2026-10-21T10:35:15+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from Tribune Online on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "439a12d3e9e41221",
-      "title": "FDA AI Guidance Requires Sponsors to Validate Clinical Trial Algorithms",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjR4T2ZfMVBqUWRrSV95NV9BalZtTm9JSy1QQkNCSGxyeUhDZlVmQzdCTUszVXZsN25QR3gyVmZRNnNnYmExRHp6X0JJeDJsRVdNeGx6dlhVMC0zR2QxX0lBdGFaaW5ITHJVb1IySTRvWnBZa1Z2NlJEa3p4NGM4SVBXWkdTQ0FzTzVkd1I2bWxjbENNbU4xbEpDS1FoclVManMydHZlWlRMRzJvSV8wekxQQy0tQQ?oc=5",
-      "source": "The Clinical Trial Vanguard",
-      "publishedAt": "2026-10-21T07:00:00+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from The Clinical Trial Vanguard on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "765fa7ac57c660c5",
-      "title": "WHO, South Korea to cooperate on responsible, equitable use of healthcare AI",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd3hxZ2lxZjNkQ3FwdDI0Tml6YWtBS1VtWi1MNTRtSy03d0xDb2RfSWpvU1hseXpsQUpnUjNwWmFsbFluX2MxRFl3MVAtNERHVnBJdnIyb2ttWTRvczJRVUpDRW5NYlNLWDB6VV82dUdsZkxfOE9uTFpKSXNhbUs0LWllSGZNRFpLX2ZXWHJzWG4xR29jRjA0VEEyaDBvOUdBY21LSXktZ2RNeTVscHd2djVPVmdkeXBQYS1kSHFYUFV1Vk4ydXVheE5yNnB3Wl94aTBoTkd4dmnSAVpBVV95cUxQbndfY1FDOEx5N19KSVgzWGJweDA0cUFmdjdsRzN0YS1FZFB4TDhQN091RlVyNXBlTG5pcG9ET0pzeF9waG96cFJSaXpFOGZIb1BrVjZIM2ZaUWc?oc=5",
-      "source": "MLex",
-      "publishedAt": "2026-10-21T04:53:51+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from MLex on health equity in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
