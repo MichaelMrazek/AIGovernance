@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-20T20:25:38.202223+00:00",
+  "updatedAt": "2026-11-21T19:20:10.088052+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "b0166b667a712049",
+      "title": "Study Evaluates AI Generated Leaflets for Anticoagulants Against FDA Patient Guides",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDBiT0V5UkpwR01pUl8zV0tfdk1IS1lodXEycVZBQ2JReFRmNWc3TmszTmdNR2F5TkVkaDlTRVg0bXBZdFB4VHpWYkRpdi15T3Bpa0ZDb0lRRUZKMXNIdW5jWGZhN2g3VlRYeWtIcFVybFBvZ2xON2VoSXdrNlRRSEJVanlyYllQLVliSzRvN2t2dFBpOGwyTGhQbHN0c0tSRWRQWEN2VWl3VGxy?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-21T04:32:02+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "8215e8209ae94900",
+      "title": "Artificial Intelligence Accurately Forecasts Anaesthetic Complications Despite Gaps in Clinical Validation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHNPdExCVk0tLWNORU5NQVlYcy0teEVVRkxKaTZVbWtNMXdJSldJV01mZTkyTTZfbG1IOGxUd2h0ekJfVjR5X19uUi1EYnBWcXFDWDRqcklCMTZzUFFqWHhxMG1scmtRd0JqMHJsb29lZ0pkOTRrMjZMNDRfVDdWXzdDQnkzUzczNXkwN2ctWHNMcFJsbTdrc0U2Y1RqMVZIa2ZySnk0NFUwc1p1ZHRVTzk0anZDRVd0STFNbGpaMmpFVTdKTmd2eEZQMA?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-20T23:11:08+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "d9b5ccd877479ffa",
+      "title": "GAO Spotlight Flags Regulatory and Safety Gaps in Mental Health AI Chatbots",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3ZrcFJRTkdVU1Nodm50VzFpZjNJbERPN2RZS0lJeVBmTXJzWlVORnE3ZlZic2dQUnBOMUZLZlZHZF9LVmRMV2xhVTlnTGNSNm9aUU9US3pJS3FFa0IxMVk0cGFNTkhPN3Bsb0UwTWx3cDhObEduNW5RNnI2SGZYRUR6d1JidjNpME13cA?oc=5",
+      "source": "CASRAI",
+      "publishedAt": "2026-11-20T21:14:43+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from CASRAI on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "43adabe51dae2cb0",
       "title": "Utah lets AI renew—and in one pilot write—prescriptions, but federal FDA oversight remains unanswered",
@@ -433,24 +460,6 @@
       "publishedAt": "2026-10-23T09:43:18+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Radiology Business on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "b32adf36bbdceb0b",
-      "title": "Pharmacist Roles, Risks in Guiding AI-Enabled Medical Device Use",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVplTnIwN21XcVg1N1E3WFRlaGNrR1lvU0c3X3drQkxhMlVWRF9yOE5QTGN0UGw4em4xUFljOEdobGIxVGxNSXRuMGZxeDJTTnlNdmE3b3FqY1F6Z290M1ZMdTdIMzhFOEE5MG52TE5FNWpZMW1nRzAzX3MwTkRPVGxjTDhpN3RZTVZ6OEdIQldUVXNQaEFtU0gxaw?oc=5",
-      "source": "Drug Topics",
-      "publishedAt": "2026-10-22T18:34:58+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Drug Topics on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "512037e923a27309",
-      "title": "AI-Generated Evidence in Drug Discovery: Reliability, Legal Risk & FDA Compliance",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPXzNkV2c5dk43d1d5alhkOW9BbkJyY2h1VHNEd283dVJZdEc5dGhqbkpjNU1jUHpjXzZDRk5PTndtUmtUZ0hIVWxuRmlLMzN5OGczVlB4b1dWZDloMkV2eWc5ZEJVRkRvNkZ3MXYyOC1QMFRqTWJzTUZkVUl6cHJ1VVVyMk9TZ0xDOGs5eGRMWFVCWFZHUF9TLWJfMnhSbGNrSVVyWWJicGtNT3BvQmRJYlFGT1pkTVJuQWlITUg5MHRKMlRtREprc2xBTEZ2Wno3NU5yQlhYZGNrd3I3bzFlY2NhQWZtazhrWW1nbktxTlNDakE?oc=5",
-      "source": "Crowell & Moring LLP",
-      "publishedAt": "2026-10-21T23:47:03+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Crowell & Moring LLP on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
