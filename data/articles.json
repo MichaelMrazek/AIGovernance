@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:20:10.088052+00:00",
+  "updatedAt": "2026-11-22T19:44:35.651002+00:00",
   "demo": false,
   "articles": [
     {
@@ -91,6 +91,15 @@
       "publishedAt": "2026-11-17T03:26:42+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from OrangeSlices AI on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "ce6f86742ea08063",
+      "title": "New Framework Proposed to Govern AI Hallucinations in Medical Care",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0k4MjJaeTM3YkR0YnBZRGFWeUFNSWRYYU85d052cFBhekl1X2VlN0FCa1h2Rk5rUWx6azFiWU5KTnpZamNxRlV0alNlcnlrZ0NmMTNGdGJGMVNHWTZ6dGpXRm5UVVdvVkhxbWxxYjJyVW1WUmdNMWlHUkFlZzZVX193LTlBRjlaemJ0SGFYc0NwMWFvOWc?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-17T02:33:57+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "a6ece7fef3faa9af",
@@ -451,15 +460,6 @@
       "publishedAt": "2026-10-23T19:54:10+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from MedTech Dive on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "57448557fa0c9982",
-      "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjZUVzh1YmRKWVJhTWRNUk5mOVZzOUxEVHIyRzY1MmgzV0pWWHk4dXFWdnVoTVh4RjJvSnQwYXV0U1ZISjhEdlNKR2IyRm01clAzS3hGUUJOOW5CcU9RUFVhNmdtU3pINzBZZm5FRkk5c2stQnVhV3Bya083S1EwZUpfdFh5aEV6QmhPS3VYTGRibmRudUR3TU1NYkVtWjNDT3NTT0RpcldUMGN1OW1jcnRqVE1GX01xbEM0?oc=5",
-      "source": "Radiology Business",
-      "publishedAt": "2026-10-23T09:43:18+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Radiology Business on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
