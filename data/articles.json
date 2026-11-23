@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-22T19:44:35.651002+00:00",
+  "updatedAt": "2026-11-23T23:56:55.090337+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "7592ba4b6b8f5b06",
+      "title": "Patient-Facing AI Models Diverge in Accuracy and Safety for Anal Fissure Inquiries",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa255Sk01TWZGWWQwWVdMR2toME1IMVE5YU5IN05fTE1HQWh0WDRMMFVhYXNtc0JlM3UwNHpVQ3RkQ1UtaDJDRVhDdUpxV2xIUENJSThWV0JDMkhwcUE0RWlaU3NoQkJ6Y3VfVDB3bHhfbEdnaW14MTJndHM5ZnZkd3pRZjUwVTJRRXRIUEVSLUxTSTh6TzdrTUp2Z3dRNDJfZnI1a2d5d1lIQzg?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-23T22:16:43+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "f9d3fba625652d58",
+      "title": "Healthcare Huddle: AI’s trust deficit",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sTHh5Y3QxRzRUNEVvLXlzVXJtVHVvVUp5MllPdjYwQkNBRVFxcnp6TDFHWHFQemdkSTJfNWFwNlFBRUc5SjdIdVA2dTJGNXZlQU4xNjc3OE51cHl0MXhiQnN2VU9Rd19kLS1KY2pOZzNVQWdvUEJDZ2VvWV8?oc=5",
+      "source": "Medical Marketing and Media",
+      "publishedAt": "2026-11-23T09:00:22+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Medical Marketing and Media on privacy & data in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "b0166b667a712049",
       "title": "Study Evaluates AI Generated Leaflets for Anticoagulants Against FDA Patient Guides",
@@ -264,6 +282,15 @@
       "description": "Reporting from MedTech Dive on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "12558dc650af5e33",
+      "title": "Most AI health equity guidance is general and U.S.-based, Georgetown review finds",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUxzbWVXWFJ3dXNfcUM2OHJlSDYzX3Y0X1ZCNURWYTQ1RGdzX3NoOF9fc3N2dVJ0ZTlFUDRCOFdfQ0RGdnJWRlZVd0hGeWg5a1IyUmx3RWtPRmRGVUI5M3NPNkxMNmFFYzUtOWcwaEVfdVJBMlF2YnZKMm9HOF9ZYUZ0ZDRZVWVBWU12SHBQSUNVT1pVZGY0WEc1bnhHNDJrXzltb3pWczZ1Qm5DM1prX09rMWYwSE50aEE?oc=5",
+      "source": "Medical Economics",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "topic": "Health equity",
+      "description": "Reporting from Medical Economics on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "52faa19f3500309d",
       "title": "AI Could Help Ensure Health Equity",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rM0g0U3ZWYkZPalRuSlQwNEtvV1c5X2llUXBKa1h3MUp5elQ3TDg4eUU4OU56NTlpNU05WUJZeFJxUExZd25nVlJXcVM5cEF0d1hYb1FwTGNmRkVSVXFla1hwWjVDNW1lNW9RcWJrWE1xSVAyajVyd1ZB?oc=5",
@@ -451,15 +478,6 @@
       "publishedAt": "2026-10-25T23:33:42+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "15e71b77c9b2a6b9",
-      "title": "Developers, not doctors, should be held accountable for generative AI medical devices, providers say",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnBnNTJCYmxVVnVLWEMta05RY0Zrdjk1RTBTWUhCaGo2R3p5S2dJQnJ2SHEyaUEtbWFJMVN5VWpxN3RjRmNOay1QdzhOcFc0UWo1a19DUkxqdEJxZXY3ZlY1c2VmRHAycWJRSkJVMWplMXhfQUpseE9PMktEWWQ4VUZKMjdqUUN1MGJTOHI5Q0ZXT01XZ2lXZFlWdExsemRCaTZDck43dXUyOFQ5NmxONjFZMUI?oc=5",
-      "source": "MedTech Dive",
-      "publishedAt": "2026-10-23T19:54:10+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from MedTech Dive on safety & standards in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
