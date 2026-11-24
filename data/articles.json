@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:56:55.090337+00:00",
+  "updatedAt": "2026-11-24T22:29:33.151244+00:00",
   "demo": false,
   "articles": [
     {
@@ -26,8 +26,17 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDBiT0V5UkpwR01pUl8zV0tfdk1IS1lodXEycVZBQ2JReFRmNWc3TmszTmdNR2F5TkVkaDlTRVg0bXBZdFB4VHpWYkRpdi15T3Bpa0ZDb0lRRUZKMXNIdW5jWGZhN2g3VlRYeWtIcFVybFBvZ2xON2VoSXdrNlRRSEJVanlyYllQLVliSzRvN2t2dFBpOGwyTGhQbHN0c0tSRWRQWEN2VWl3VGxy?oc=5",
       "source": "Bioengineer.org",
       "publishedAt": "2026-11-21T04:32:02+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "d9b5ccd877479ffa",
+      "title": "GAO Spotlight Flags Regulatory and Safety Gaps in Mental Health AI Chatbots",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3ZrcFJRTkdVU1Nodm50VzFpZjNJbERPN2RZS0lJeVBmTXJzWlVORnE3ZlZic2dQUnBOMUZLZlZHZF9LVmRMV2xhVTlnTGNSNm9aUU9US3pJS3FFa0IxMVk0cGFNTkhPN3Bsb0UwTWx3cDhObEduNW5RNnI2SGZYRUR6d1JidjNpME13cA?oc=5",
+      "source": "CASRAI",
+      "publishedAt": "2026-11-21T01:03:45+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from CASRAI on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "8215e8209ae94900",
@@ -37,15 +46,6 @@
       "publishedAt": "2026-11-20T23:11:08+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from Bioengineer.org on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "d9b5ccd877479ffa",
-      "title": "GAO Spotlight Flags Regulatory and Safety Gaps in Mental Health AI Chatbots",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3ZrcFJRTkdVU1Nodm50VzFpZjNJbERPN2RZS0lJeVBmTXJzWlVORnE3ZlZic2dQUnBOMUZLZlZHZF9LVmRMV2xhVTlnTGNSNm9aUU9US3pJS3FFa0IxMVk0cGFNTkhPN3Bsb0UwTWx3cDhObEduNW5RNnI2SGZYRUR6d1JidjNpME13cA?oc=5",
-      "source": "CASRAI",
-      "publishedAt": "2026-11-20T21:14:43+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from CASRAI on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "43adabe51dae2cb0",
@@ -62,8 +62,8 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHhha2NwNHlCODRxOGFQeE5iYVZ4d3M1WFdKcmpEOFJRVlhyWk02UEF6R2FOMnd0UEdFTWFjOU5lNzAzWlJxdmgxazVSRDZydWpvUWoxb2ZqOUhjVzdXSzlObFJ3ZGJod2Z2NHg4WWdNcDFEdktSMlpzVzVabFl2VGNuNFlZNkJfUUhDc3lOWnBYUGtSTDhveWtpVWVqOV9vdnhiTVRaMTlVWll3cGVHUkVkbmZCblU?oc=5",
       "source": "Food Safety Magazine",
       "publishedAt": "2026-11-18T12:57:03+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Food Safety Magazine on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Safety & standards",
+      "description": "Reporting from Food Safety Magazine on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "330f6b0d26367885",
@@ -210,6 +210,15 @@
       "description": "Reporting from CASRAI on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "03b0e0279f106eef",
+      "title": "Machine Learning Predicts Dental Cavity Risk Using Social Determinants of Health",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzVkdWZybXFJRFZNTFBTOG82eE1GVnRSc2RrSWFxMjl3QmNmM3F5Y2NhVjQyUkpLX1RtVVg5alR2RDBzMzNFVUhHQ3ZXdWo5NEhHczIwS254TUZUQWpFcnI0dXdWbkJEMEloTlZ3cm9vcGFJdWZrTEM3bVVHQ21EYlEyOGxsNl9FaG5SQXVuU1BDamhjZXhjSXVKWExNbG1BbElWQ01CcXg?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-09T20:58:42+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Bioengineer.org on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "00a8788b14cc3a02",
       "title": "DataMEDS AI Announces Corexa Pharmacy's First Commercial Sale of Compounded Peptides Under FDA Enforcement Discretion Policy",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUGZ0U2IzLTZGRUMzYmtTRnhqdGJscGkwbDBFRWUwLUtPX19VMUN5V2xwOWoydXNxdGRkRko3VG1HZmlneFR5a1I5REEyNkJkTktYUzNid3pxZVJqLTVEZlVoblJpdUhNOXRDYWJJYS1TOFdOcDA1Yjl3Y3cxNzl1bjVpcVhEWGhBN1N3UWxjR2dsTktYOEU3QW94Wm1JVjFzOUNRVE4xV0pVSnVZMXFwdU5zM19paHZfamU3c2FZWUs3Qi01UnFjQWFXMkJVYXJva2F0Q3NoTEM5YkJlOXdZZUlWR3lLeTFpNzAzVnMyUzZWbkktNGVKMzlWa3Z6dVVqU09pUVRfX21GTzQ?oc=5",
@@ -251,8 +260,8 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1VCd3NyV01jODBTMS1ET3FIRFk0TVk5cFl0XzE5TmpQQnhRVUZ0dW9GY1c2cG9LZXVPMl92WVhySTlDYVdXZ3hIcm1RQ0stYkpzSjd6LVNvVE9EaUh6Wll0amNnVzBlVTN3YXJobk9Odnk0ZDUyZE9nS21CY3dnOHhodU45LUNwUG5TSVpqc3h3Mllz?oc=5",
       "source": "ExecutiveGov",
       "publishedAt": "2026-11-03T22:08:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from ExecutiveGov on policy & oversight in health AI. Follow the source link for the full story and context."
+      "topic": "Privacy & data",
+      "description": "Reporting from ExecutiveGov on privacy & data in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "e8e985ce38157df8",
@@ -406,6 +415,15 @@
       "publishedAt": "2026-10-29T17:36:45+00:00",
       "topic": "Health equity",
       "description": "Reporting from Frontiers on health equity in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "67558eb4ea296f91",
+      "title": "AI Model Governance in Pharmacovigilance: FDA’s Credibility Framework and E2B(R3)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRm42cnBDemNrbTFCbzhBSVczQ2hGTE5VcFo4NDJvQUFfNEJ4SC1vUjUxRWRnRHNMaWdpa09sT2lRcTJ2cDR3SnFyZ0dGekhISUdNdEpUVlJsaVh6Y2VLNWpfQjl1a3Z4Q3ZjTHZFMzdRQXNRSXg0?oc=5",
+      "source": "CASRAI",
+      "publishedAt": "2026-10-29T07:00:00+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from CASRAI on safety & standards in health AI. Follow the source link for the full story and context."
     },
     {
       "id": "45129a4f252d57e9",
