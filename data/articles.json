@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-24T22:29:33.151244+00:00",
+  "updatedAt": "2026-11-25T21:44:33.353181+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "498279bbf8cb799e",
+      "title": "FDA Clears DeepHealth AI Tool for Five-Year Breast Cancer Risk Prediction From 3D Mammograms",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFd1WFVMV3BReUI1WVdmdzdPN3RrTVVjekZ2aS1DSVNsNV9CT1NQdUFnT3hpNEZ5OGlvVDNmSjJzbnkxanZKVXNNYXd2b2RQdDJtTDNFd0Q2M0tCRGhfOG16YjJYTGhnZ05PdGFzNTZFZlBiT1B4bDlLNzlNQlFnQzhlbG9ZQy1tZFFxM0M3M2xSZUNxSE1jX1kwbw?oc=5",
+      "source": "CASRAI",
+      "publishedAt": "2026-11-25T18:27:32+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from CASRAI on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "dcffd710f426dcf5",
+      "title": "DeepHealth lands FDA clearance for AI that predicts five-year breast cancer risk",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zSncxQmFRU0pqOVR2Tl95dTFmd09wdFJtdFBfUzJ3OGVLRlpqc1hpcFBuQVBOOUJHSXRBaHpCanQ5MHZPYmRfLTFZZTRwXzc4?oc=5",
+      "source": "DOTmed",
+      "publishedAt": "2026-11-25T16:40:56+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from DOTmed on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "fbf2813b850c3cde",
+      "title": "AI-Generated Data Could Speed Up Medical Imaging Trials as Researchers Develop New Validation Tool",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZWJVRjJvbkE4WG44T3RMYWtPRGZHMXAyaWpDYnF0TFNfOWczdDJ1enkxaDV1R3llMDZkeVZVZTYyRVZDTmE5azhuN0gwRjJaSWlZalB5QUZ0cVNEN3drZDVZa2hfV3pmNkxPUnVKRklGM1RqVzhGaUtkR1N4VzdwN1ZPYXA2b0h2TzlZR2tEM2Q2ZEVGa1h4VTh4SDZuYW1TT3RFZDZZVmJqSm1UVzRQOU8yTVdUVTJKUjZJMWgyNG0zMjd1REhtWXVrWHFaQ3VWRVdocFp0Qng0MFEta2JjQnJ4ZkIxVmZkaTJR?oc=5",
+      "source": "Convergence Now",
+      "publishedAt": "2026-11-25T11:09:17+00:00",
+      "topic": "Safety & standards",
+      "description": "Reporting from Convergence Now on safety & standards in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "13b65bd24dbbd021",
+      "title": "FDA clears RadNet AI tool for predicting five-year breast cancer risk from routine mammograms",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdXd5OUQ4dGl5VktfdTB3TWkycEZaTXVWd0cxQXk2V3RYbThRNEtWTnNiTS1MMk1mM1RLZWFqUnlaQVFqZkdJWW15aTJBdnJJcnpkcG9jWXFDc0ZpVzdHb3p0RTJQMHFnVW1GX2tpVk11SUdZb2lweVY1VUFqcGFnZWlPWndobW5JQ1p1Z1JZTHF1RmphdktYU1BtMkcwWFg0S0hleXNueWdJeDdydlkzcUUySlV5VTFZNU1wbmx6X1Z3d1l2Q09Qc0FmMjYwWjZhSEFTZVFSN0NndmtOdXc?oc=5",
+      "source": "Radiology Business",
+      "publishedAt": "2026-11-25T08:43:26+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Radiology Business on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "64aaf7976234e91b",
+      "title": "California Enacts New Safeguards For Clinical AI And Health Care Chatbot Privacy",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPam5tcGVXTUJxcTZBV21oa29LcGlITFZ2S1AwS2hNcXZ4WnpvQ2RDOURJYjEtTnItaDZPeTN6TmR2bnlWeG9kck1aTWZrWDBaLWlYeGNDeFRvbTFwdWxWeUNTX0JqU0FKWFdKYmFwTUlzTWRZZzV6dUlqZGhkcGRoR0NjRzZZRDd6dTN0RlhnZkVlVERrN1FVR2JxLW9SV0tJWUhYcGxOc3otTDlPbVBsT3NvZHM5T2hybjAyTXpXaHE0UHJOWUx3NTBRZVZCaGJaUkIxVlB0TkU5VmlpSHpQdmNCNXI5TXFQUE00MS1XcGF0UEpSbUZPai1FUks?oc=5",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-25T08:23:46+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from Legal 500 on privacy & data in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "7592ba4b6b8f5b06",
       "title": "Patient-Facing AI Models Diverge in Accuracy and Safety for Anal Fissure Inquiries",
@@ -476,24 +521,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmZnaGRZekVtNFpXLXpuRmczeXI3aTZvbkg2a2w0bHc0c1dOS1B0UHdBQUI3OVlPdGFJYm1teDZTdzhfNGFHUi1yajExellZQ29XUXBpbGRpNV9tMVQwekFsTTN0aVVXRlF2anpvampvTGs3emJoSTJCZDlMUFhOeUtaUjMtelZsRC05cC0xUQ?oc=5",
       "source": "Bioengineer.org",
       "publishedAt": "2026-10-26T22:49:07+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "7ae6d82bc7fdff00",
-      "title": "ATA Action urges FDA to build risk-based framework for AI-enabled medical devices",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3ZuVDQ1SVB0S25jLXVrcXNpeEFhX0tLWHV4RVM5NUtWWDFiUkMtdjdGTHpGc2U1NHlzWG1qS25rWEdIZ1BST3JWZzJudVVNamg1UDB3WmhtOFZ5VEZrUEJXOW9ZWG5MRGFnXy1HckxSVDFrdWUybklmYmI5Z0hSSzY5aG5pNDFMSHBYNEN6UnA2c3dlUFZRaXFvNmt2UV9qd2haRkw5WXh3QWZDcDhJejVFQQ?oc=5",
-      "source": "HME News",
-      "publishedAt": "2026-10-26T14:39:00+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from HME News on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "582134b6b6ea67ed",
-      "title": "Public health commentary urges responsibility for vetting AI content",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVlSMklGMGx2Qk51VDVLcTV1WHFqWGdKUTd2d3dWbDhtZnE3N2w2TUJqX3huZk5wek04S0I3WDQ1bHk3Rk5PM0ZxZEFnTjNPMUZsQUdpeEdFWTYzb1F3U0pjODh4MUpmd2x5c0FxeXhUS1dOdFJhVC1KSGZjaHJtUFNGSmZ0QWxFQ3pUeW5HUUNOTnRHcjVHWA?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-25T23:33:42+00:00",
       "topic": "Policy & oversight",
       "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
     }
