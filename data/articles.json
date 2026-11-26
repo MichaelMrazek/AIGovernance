@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-25T21:44:33.353181+00:00",
+  "updatedAt": "2026-11-26T21:37:17.825258+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "e2a938cdccac7d98",
+      "title": "Clinical Artificial Intelligence Faces Accountability Gaps Across Healthcare Lifecycles Study Reports",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNHhuOEVlOWNQUmpVRS05MVlJWTR5TmJzZWhOcGNqckZvbWVUQWVCT2s3Ri03a0pMZC02UGt2Ujh6eXc5c082YXB2NzhhVzRPdV9qbVMzUUtwY3ZMUHJ6TzEtTG1MakRjN3pwUDFYdnY5RWtYd2s1UWU2bEp6UmJYRlJybHFYeXVDV1pzS1hUajViT0k2a3p6QW1MSC1WenJNZ3hDcUF6YnpEQlB0VE1JdXFUMlB2UTFRZTBKTWFCaW43VGNz?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-26T11:05:58+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
+    {
+      "id": "900d9cf1d69f3925",
+      "title": "Medical Artificial Intelligence Models Face a Persistent Validation Gap Across Public Health",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclZtU0xWZEpia0x5MUNDQ3huZHFnS09jRkVSbU9UNjU2dEozbkQxblI5X2JDSG1LMWY0ZG1UOFZUWVg1WmhWV1daNGI3Y2dZa1hBaWhxVjE2WWRWVl9DM3NHTEtnN0tHcE90SVN0SG5TMWN4YVhwYTdqWmNtNllDLTg4VTFfSHlENndfRmd1aGdnVlk0Ti1JeExtUE1UTTRaSnFLTmowVG1HNWVnLVRhQ3JtdUcwRVVu?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-25T22:22:44+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "498279bbf8cb799e",
       "title": "FDA Clears DeepHealth AI Tool for Five-Year Breast Cancer Risk Prediction From 3D Mammograms",
@@ -16,7 +34,7 @@
       "title": "DeepHealth lands FDA clearance for AI that predicts five-year breast cancer risk",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zSncxQmFRU0pqOVR2Tl95dTFmd09wdFJtdFBfUzJ3OGVLRlpqc1hpcFBuQVBOOUJHSXRBaHpCanQ5MHZPYmRfLTFZZTRwXzc4?oc=5",
       "source": "DOTmed",
-      "publishedAt": "2026-11-25T16:40:56+00:00",
+      "publishedAt": "2026-11-25T17:47:05+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from DOTmed on safety & standards in health AI. Follow the source link for the full story and context."
     },
@@ -478,51 +496,6 @@
       "publishedAt": "2026-10-28T20:36:17+00:00",
       "topic": "Privacy & data",
       "description": "Reporting from JD Supra on privacy & data in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "1a2bf2edb51e9725",
-      "title": "Recommended guidelines concerning artificial intelligence and health equity: a scoping review",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYm9tTnBrX28yMlRrV3ZJZ01aaUxQLUw0Yk1tUXdhdzg5LTVvcFdsZG42ZzFFTko4ZkJBcFVRd1RDNEpxWWxKUk5pN3NFTjFINk00SmFzaVJaNG4xUGphRUY2NFdVVFllMnhNQkUtNnlENURfckhxTjdmUkhnRTRIVmVfeTV5Ylo0MmhQYldnVTZWM3V5dnBPUWxvT2xaOGtBcDk5b3R4WlBvbVI4ckZCZFpQSzVvN3JDbUk4NzFkcw?oc=5",
-      "source": "RamaOnHealthcare",
-      "publishedAt": "2026-10-27T20:39:42+00:00",
-      "topic": "Health equity",
-      "description": "Reporting from RamaOnHealthcare on health equity in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "27da9cd477b8fe50",
-      "title": "AdvaMed Encourages Risk-Based FDA Approach to Generative AI Medical Devices",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUVuMDhNcDVueW1hLVRXMXkxQ0Z5a2h1UkpjOHI1bFgzd2dqcld4MlU3TEkwVExvMUE5UXVhRWJTdUloLTNZSER5SzBGemt6SjVhQjlrRFJDMlR0TFMxenNENlBfUktUWm5Qc2R3M2VvZTYzQ0NaT0JkZmktVTFKYzhDRjJyeVp3Nm1NcFdmS2FlZm9OYWdwM0FrcjAycEk0T21SVnZmdlRkVUtmUXNUR0FfREMtdTJ3YmhfY1NRRQ?oc=5",
-      "source": "AdvaMed® - Advanced Medical Technology Association®",
-      "publishedAt": "2026-10-27T19:01:30+00:00",
-      "topic": "Safety & standards",
-      "description": "Reporting from AdvaMed® - Advanced Medical Technology Association® on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "b7ad1e82cc06faff",
-      "title": "Why Public Health Leaders Must Own AI Risk Decisions Now",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW9DemZJTGQ4bWlKTTVHdWE4Nk0xTWtXU2VBOGhoY0hMLUQzakNnRDV3Y2IwNlB2bUN1SFhFdFBJTl9wVFRFRWYwdmxPZUhyNWp2REtCZ1FNeXhjeVFFcEM3c041YUIyRkNKV0ZOTlJfc0FFMHZKY016SzU3cVcwNlp1ZW5KdUhz?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-27T15:49:36+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "356a2ed244d0c135",
-      "title": "Generative AI Risks Exacerbating Health Inequality and Cyberchondria in Fragile Systems",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTNoRi1yUk1FSnJ3TUpGWFE2clZZVlFYYUV0a3dockhsRjFzTHJiajJRLXhqakNDM3JUNm5EUDFxemJUMEV1dS1qQ2RWUmJSM280d25idTRBUXJBbTNUWlFkaEk0NXZRRlpYbWlzMW0xTHhCZ0JRZ1lVbXVpSHIyVWl6OUhxT3ZZSjFyM2VJU0dLdHhLeUFIRmJGQjFDSlp4QjJQQndobU9Ga3k0RW5valdn?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-27T09:39:34+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "9b48e73823162209",
-      "title": "FDA Shortage Data Offers Uneven AI Warning and Policy Lessons",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmZnaGRZekVtNFpXLXpuRmczeXI3aTZvbkg2a2w0bHc0c1dOS1B0UHdBQUI3OVlPdGFJYm1teDZTdzhfNGFHUi1yajExellZQ29XUXBpbGRpNV9tMVQwekFsTTN0aVVXRlF2anpvampvTGs3emJoSTJCZDlMUFhOeUtaUjMtelZsRC05cC0xUQ?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-26T22:49:07+00:00",
-      "topic": "Policy & oversight",
-      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
     }
   ],
   "warning": null
