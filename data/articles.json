@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-26T21:37:17.825258+00:00",
+  "updatedAt": "2026-11-27T21:21:09.907063+00:00",
   "demo": false,
   "articles": [
+    {
+      "id": "4949222a73624007",
+      "title": "Information Entropy and AI Framework Tackles Essential Medicines Regulatory Uncertainty",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVhXdUZqMjNiNUZHS1JxazBJdkdvWHNCcUsxTjZuUWYzaGd2VGo5NVhOZ1psT3ZxWk9abGV6RUsyamx3Q1hvZmFlR1Jaak0zdno0bGNSbFBNRWdGeDAxLUM0ZU8wYWtrdVh3emNJSE9qOVVNV1ZIVGxrb2t1WVJpOEFla3lpVHJucWp1WXduUUU5N2R2WWR5WXctQVloQnhJeXBiQ1h3NWtKcmVSNVkzLVZR?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-27T10:01:47+00:00",
+      "topic": "Policy & oversight",
+      "description": "Reporting from Bioengineer.org on policy & oversight in health AI. Follow the source link for the full story and context."
+    },
     {
       "id": "e2a938cdccac7d98",
       "title": "Clinical Artificial Intelligence Faces Accountability Gaps Across Healthcare Lifecycles Study Reports",
@@ -291,6 +300,15 @@
       "description": "Reporting from The Detroit News on policy & oversight in health AI. Follow the source link for the full story and context."
     },
     {
+      "id": "678c9e70294a112a",
+      "title": "Critics warn of health data privacy concerns as Ottawa ramps up AI strategy",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTRlOHlmVHNRdGtFOVdyVHp3eldvNE5xREM2aTJkZnZiLXQtRjVpU0pnQVItOTFydno4NkNnY2Fud0d0b2JmLXpmXzFrUXBGLXhZSjZlTWtLSzNDdW1Gb1ltQmloT3pWQWVpRVdGZFU1cUdEZ04zTDNvYzQyd3M0SWNB?oc=5",
+      "source": "CBC",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "topic": "Privacy & data",
+      "description": "Reporting from CBC on privacy & data in health AI. Follow the source link for the full story and context."
+    },
+    {
       "id": "3c4cfce3b731e4e3",
       "title": "Parental Trust in Artificial Intelligence and Pediatricians: A Cross-Sectional Study of Diagnostic Preferences and Healthcare-Seeking Behaviors in Saudi Arabia",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZ0dHZTZfbjcwVXNNMVVRLWY5dEFHWE1Ed1B6a1E5SzdsWDdiSFBUbXZoTnRVVVZSNGRlWEJQTVhHVUgtSC1kZzJ6Z2RtRms5YVpiVVhFaVhCREp6S2hxQk1EZUdzaHZ4MXUwUUJ2NDZCaVpjSDlpTU9WYjY5MVQ1NFM5ZmktQWYyZ3JLaGFYUlBoZC1jSmlPM0pnemRFaks0dnFDRFBLQzk3czI2OHhoRlpESklmZHlnVGQ5WDRsMVYyemZ1V2JWSEIydW5XQjNIbmw5cWpkaHFkUmdFR1QyLTlxaWNCeFJEblFMWnB5Z2FZQThrQ1ItdHZsdXBQTVlXR3dEQjl1ZGh1STdSX1FjQWl5SG0yTk12bHNQdlY4eTk4MkU?oc=5",
@@ -487,16 +505,7 @@
       "publishedAt": "2026-10-29T07:00:00+00:00",
       "topic": "Safety & standards",
       "description": "Reporting from CASRAI on safety & standards in health AI. Follow the source link for the full story and context."
-    },
-    {
-      "id": "45129a4f252d57e9",
-      "title": "Snapshot for Healthcare Employers: What AI Glasses Mean for Patient Privacy and Recording Consent",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGlROFV2ejdGRGR3X3lzS25XR3VuanpFYmVGQVRjOEZlbjloR2VKZHRYLTNDdEpBZnFqVUpqZ0t0RUp5ZkQzdFc3MTVOdnlidVVCQUtwZlNFMldvWHUtVDRrUE5LYWtFcy14S216cXZxTE5iYjd5SnVzUlhyNzE3SHBNQTJaQ21w?oc=5",
-      "source": "JD Supra",
-      "publishedAt": "2026-10-28T20:36:17+00:00",
-      "topic": "Privacy & data",
-      "description": "Reporting from JD Supra on privacy & data in health AI. Follow the source link for the full story and context."
     }
   ],
-  "warning": null
+  "warning": "Some sources could not be refreshed; previously collected stories are retained."
 }
